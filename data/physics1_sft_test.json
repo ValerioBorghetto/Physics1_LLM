@@ -1,0 +1,1426 @@
+[
+  {
+    "instruction": "In physics, what is viscosity?",
+    "output": "Viscosity describes a fluid's resistance to relative motion between neighboring layers."
+  },
+  {
+    "instruction": "In physics, what is center-of-mass velocity?",
+    "output": "Center-of-mass velocity equals total momentum divided by total mass."
+  },
+  {
+    "instruction": "In physics, what is energy?",
+    "output": "Energy is a conserved physical quantity that can change form or move between systems."
+  },
+  {
+    "instruction": "In physics, what is an ideal fluid?",
+    "output": "An ideal fluid is a model with zero viscosity, often taken as incompressible."
+  },
+  {
+    "instruction": "In physics, what is an inertial reference frame?",
+    "output": "An inertial frame is one where a free particle moves at constant velocity."
+  },
+  {
+    "instruction": "In physics, what is recoil?",
+    "output": "Recoil is motion opposite to the direction of expelled or launched momentum."
+  },
+  {
+    "instruction": "In physics, what is uniform circular motion?",
+    "output": "Uniform circular motion has constant speed along a circle."
+  },
+  {
+    "instruction": "In physics, what is thermal equilibrium?",
+    "output": "Two bodies are in thermal equilibrium if no net heat flows between them when in thermal contact."
+  },
+  {
+    "instruction": "How do you express Newton's law of gravitation mathematically?",
+    "output": "F = G m1 m2/r^2 for point masses separated by r"
+  },
+  {
+    "instruction": "In physics, what is hydrostatic pressure?",
+    "output": "Hydrostatic pressure is pressure in a fluid at rest."
+  },
+  {
+    "instruction": "In physics, what is speed?",
+    "output": "Speed is the magnitude of velocity."
+  },
+  {
+    "instruction": "In physics, what is mass?",
+    "output": "Mass measures an object's inertia."
+  },
+  {
+    "instruction": "In physics, what is a noncontact force?",
+    "output": "A noncontact force acts without direct surface contact."
+  },
+  {
+    "instruction": "In physics, what is a heat engine?",
+    "output": "A heat engine takes heat from a hot source, produces work, and releases some heat to a cold sink."
+  },
+  {
+    "instruction": "In physics, what is an incompressible fluid?",
+    "output": "An incompressible fluid has approximately constant density during flow."
+  },
+  {
+    "instruction": "In physics, what is sound?",
+    "output": "Sound is a mechanical wave produced by pressure disturbances."
+  },
+  {
+    "instruction": "In physics, what is a nonconservative force?",
+    "output": "A nonconservative force has work that generally depends on the path."
+  },
+  {
+    "instruction": "Are conduction and convection the same?",
+    "output": "No. Conduction transfers energy without bulk material flow; convection transfers it by fluid motion."
+  },
+  {
+    "instruction": "Are moment of inertia and mass the same?",
+    "output": "No. Mass measures resistance to linear acceleration; moment of inertia measures resistance to angular acceleration about an axis."
+  },
+  {
+    "instruction": "In physics, what is a thermodynamic cycle?",
+    "output": "A thermodynamic cycle returns a system to its initial state."
+  },
+  {
+    "instruction": "In physics, what is a circular orbit?",
+    "output": "A circular orbit keeps a fixed distance from the central body."
+  },
+  {
+    "instruction": "In physics, what is Newton's third law?",
+    "output": "Newton's third law says forces between two interacting bodies come in equal and opposite pairs."
+  },
+  {
+    "instruction": "Are ideal gas and real gas the same?",
+    "output": "No. An ideal gas neglects intermolecular interactions; real gases can depart from pV = nRT."
+  },
+  {
+    "instruction": "How do you express weight near Earth's surface mathematically?",
+    "output": "W = mg"
+  },
+  {
+    "instruction": "In physics, what is Archimedes' principle?",
+    "output": "Archimedes' principle says the buoyant force equals the weight of displaced fluid."
+  },
+  {
+    "instruction": "Are velocity and acceleration the same?",
+    "output": "No. Velocity describes how position changes; acceleration describes how velocity changes."
+  },
+  {
+    "instruction": "Are heat and temperature the same?",
+    "output": "No. Heat is energy transfer due to temperature difference; temperature describes thermal state."
+  },
+  {
+    "instruction": "How do you express conservation of mechanical energy mathematically?",
+    "output": "K_i + U_i = K_f + U_f if only conservative forces do work"
+  },
+  {
+    "instruction": "In physics, what is rotational equilibrium?",
+    "output": "Rotational equilibrium means net torque is zero."
+  },
+  {
+    "instruction": "In physics, what is Kepler's first law?",
+    "output": "Kepler's first law says planets follow elliptical orbits with the Sun at one focus."
+  },
+  {
+    "instruction": "In physics, what is internal energy?",
+    "output": "Internal energy is the microscopic kinetic and potential energy within a system."
+  },
+  {
+    "instruction": "In physics, what is centripetal force?",
+    "output": "Centripetal force is the net inward force required for circular motion."
+  },
+  {
+    "instruction": "Are density and mass the same?",
+    "output": "No. Mass is the amount of inertia; density is mass per unit volume."
+  },
+  {
+    "instruction": "In physics, what is Newton's second law?",
+    "output": "Newton's second law states that net force equals mass times acceleration: F_net = ma for constant mass."
+  },
+  {
+    "instruction": "How do you express escape speed from a spherical mass mathematically?",
+    "output": "v_esc = sqrt(2GM/r) in the ideal Newtonian model"
+  },
+  {
+    "instruction": "How do you express mechanical work by a constant force mathematically?",
+    "output": "W = F d cos(theta)"
+  },
+  {
+    "instruction": "How do you express heat during a phase change mathematically?",
+    "output": "Q = mL for specific latent heat L"
+  },
+  {
+    "instruction": "Are scalar and vector the same?",
+    "output": "No. A scalar has magnitude only; a vector has magnitude and direction."
+  },
+  {
+    "instruction": "Are centripetal force and centrifugal force the same?",
+    "output": "No. Centripetal force is a real net inward force; centrifugal force is an apparent force in a rotating frame."
+  },
+  {
+    "instruction": "In physics, what is two-dimensional motion?",
+    "output": "Two-dimensional motion takes place in a plane."
+  },
+  {
+    "instruction": "In physics, what is path independence?",
+    "output": "Path independence means a quantity depends only on initial and final states."
+  },
+  {
+    "instruction": "In physics, what is a free-body diagram?",
+    "output": "A free-body diagram shows the external forces acting on one chosen object."
+  },
+  {
+    "instruction": "In physics, what is the Boltzmann constant?",
+    "output": "The Boltzmann constant relates temperature to energy on a particle scale."
+  },
+  {
+    "instruction": "In physics, what is a spring constant?",
+    "output": "A spring constant measures how stiff a linear spring is."
+  },
+  {
+    "instruction": "How do you express mass density mathematically?",
+    "output": "rho = m/V"
+  },
+  {
+    "instruction": "How do you express Kepler's third law around one central mass mathematically?",
+    "output": "T^2 is proportional to a^3"
+  },
+  {
+    "instruction": "In physics, what is tangential acceleration?",
+    "output": "Tangential acceleration changes speed along a curved path."
+  },
+  {
+    "instruction": "In physics, what is Newton's first law?",
+    "output": "Newton's first law says that without net external force an object stays at rest or moves at constant velocity."
+  },
+  {
+    "instruction": "How do you express average velocity mathematically?",
+    "output": "v_avg = Delta x / Delta t in one dimension"
+  },
+  {
+    "instruction": "In physics, what is straight-line motion?",
+    "output": "Straight-line motion takes place along one spatial direction."
+  },
+  {
+    "instruction": "Are work and power the same?",
+    "output": "No. Work is energy transferred by force through displacement; power is work done per unit time."
+  },
+  {
+    "instruction": "In physics, what is the first law of thermodynamics?",
+    "output": "The first law expresses energy conservation: Delta U = Q - W_by, with W_by the work done by the system."
+  },
+  {
+    "instruction": "In physics, what is thermal conductivity?",
+    "output": "Thermal conductivity measures how well a material conducts heat."
+  },
+  {
+    "instruction": "How do you express work by a gas in a reversible isothermal ideal-gas process mathematically?",
+    "output": "W_by = nRT ln(V_f/V_i)"
+  },
+  {
+    "instruction": "In physics, what is mechanical work?",
+    "output": "Mechanical work is the integral of force along an object's displacement."
+  },
+  {
+    "instruction": "How do you express volume flow rate mathematically?",
+    "output": "Q = A v for uniform flow through a section"
+  },
+  {
+    "instruction": "In physics, what is gravitational potential energy?",
+    "output": "Near Earth's surface, gravitational potential energy can be written U = mgh."
+  },
+  {
+    "instruction": "In physics, what is a Carnot engine?",
+    "output": "A Carnot engine is an ideal reversible heat engine operating between two temperatures."
+  },
+  {
+    "instruction": "Are angular velocity and linear velocity the same?",
+    "output": "No. Angular velocity measures rotation rate; linear velocity measures position change per time."
+  },
+  {
+    "instruction": "How do you express horizontal projectile motion mathematically?",
+    "output": "x = x0 + v0x t without air drag"
+  },
+  {
+    "instruction": "How do you express heat conduction through a slab mathematically?",
+    "output": "P = k A Delta T/L for steady one-dimensional conduction"
+  },
+  {
+    "instruction": "In physics, what is velocity-time graph?",
+    "output": "A velocity-time graph shows velocity as a function of time."
+  },
+  {
+    "instruction": "In physics, what is Kepler's third law?",
+    "output": "Kepler's third law relates orbital period and orbit size."
+  },
+  {
+    "instruction": "How do you express work by a gas at constant pressure mathematically?",
+    "output": "W_by = p Delta V for a quasistatic isobaric process"
+  },
+  {
+    "instruction": "Are normal force and weight the same?",
+    "output": "No. Normal force is a surface-contact force; weight is the force of gravity."
+  },
+  {
+    "instruction": "In physics, what is the coefficient of performance?",
+    "output": "A coefficient of performance measures useful heating or cooling divided by work input."
+  },
+  {
+    "instruction": "In physics, what is gravitational force?",
+    "output": "Gravitational force is the attractive interaction between masses."
+  },
+  {
+    "instruction": "Are rotation and translation the same?",
+    "output": "No. Translation moves an object's center of mass; rotation changes its orientation about an axis."
+  },
+  {
+    "instruction": "In physics, what is dynamics?",
+    "output": "Dynamics studies motion together with the forces that cause it."
+  },
+  {
+    "instruction": "In physics, what is a state variable?",
+    "output": "A state variable depends only on the thermodynamic state, not the path taken."
+  },
+  {
+    "instruction": "In physics, what is a scalar?",
+    "output": "A scalar has magnitude but no direction."
+  },
+  {
+    "instruction": "In physics, what is projectile motion?",
+    "output": "Projectile motion is motion under gravity after launch."
+  },
+  {
+    "instruction": "How do you express Bernoulli's equation mathematically?",
+    "output": "p + (1/2)rho v^2 + rho gh = constant along a streamline for steady ideal flow"
+  },
+  {
+    "instruction": "In physics, what is an ideal gas?",
+    "output": "An ideal gas is a simplified model of particles with negligible interactions except collisions."
+  },
+  {
+    "instruction": "In physics, what is an isolated system?",
+    "output": "An isolated system exchanges no net external influence relevant to the conservation law being studied."
+  },
+  {
+    "instruction": "In physics, what is the equation of motion?",
+    "output": "For a constant-mass particle, Newton's equation of motion is F_net = ma."
+  },
+  {
+    "instruction": "In physics, what is dimensional analysis?",
+    "output": "Dimensional analysis checks equations using physical units."
+  },
+  {
+    "instruction": "In physics, what is net work?",
+    "output": "Net work is the sum of work done by all forces."
+  },
+  {
+    "instruction": "How do you express mechanical energy mathematically?",
+    "output": "E_mech = K + U"
+  },
+  {
+    "instruction": "In physics, what is net force?",
+    "output": "Net force is the vector sum of all forces acting on an object."
+  },
+  {
+    "instruction": "In physics, what is lever arm?",
+    "output": "The lever arm is the perpendicular distance from an axis to a force's line of action."
+  },
+  {
+    "instruction": "Are transverse wave and longitudinal wave the same?",
+    "output": "No. Transverse oscillations are perpendicular to propagation; longitudinal oscillations are parallel."
+  },
+  {
+    "instruction": "In physics, what is Doppler effect?",
+    "output": "The Doppler effect is a change in observed frequency due to relative motion of source and observer."
+  },
+  {
+    "instruction": "In physics, what is a reference frame?",
+    "output": "A reference frame is a coordinate system and clock used to describe motion."
+  },
+  {
+    "instruction": "Are convection and radiation the same?",
+    "output": "No. Convection uses moving fluid; radiation uses electromagnetic waves."
+  },
+  {
+    "instruction": "In physics, what is a conservative force?",
+    "output": "A conservative force does path-independent work between two points."
+  },
+  {
+    "instruction": "In physics, what is a contact force?",
+    "output": "A contact force arises when bodies interact through physical contact."
+  },
+  {
+    "instruction": "In physics, what is drag force?",
+    "output": "Drag is a resistive force from motion relative to a fluid."
+  },
+  {
+    "instruction": "In physics, what is constant acceleration?",
+    "output": "Constant acceleration means acceleration does not change with time."
+  },
+  {
+    "instruction": "Are thermal equilibrium and mechanical equilibrium the same?",
+    "output": "No. Thermal equilibrium has no net heat flow; mechanical equilibrium has zero net force."
+  },
+  {
+    "instruction": "How do you express torque magnitude mathematically?",
+    "output": "tau = rF sin(theta)"
+  },
+  {
+    "instruction": "In physics, what is inertia?",
+    "output": "Inertia is an object's resistance to changes in velocity."
+  },
+  {
+    "instruction": "In physics, what is Pascal's principle?",
+    "output": "Pascal's principle says an applied pressure change in a confined fluid is transmitted through it."
+  },
+  {
+    "instruction": "In physics, what is a collision?",
+    "output": "A collision is a short interaction during which bodies exert large forces on each other."
+  },
+  {
+    "instruction": "How do you express angular displacement in radians mathematically?",
+    "output": "theta = arc length / radius"
+  },
+  {
+    "instruction": "In physics, what is mechanical power?",
+    "output": "Mechanical power is the rate at which mechanical work is performed."
+  },
+  {
+    "instruction": "In physics, what is heat convection?",
+    "output": "Convection transfers heat through the bulk motion of a fluid."
+  },
+  {
+    "instruction": "How do you express period of a small-angle pendulum mathematically?",
+    "output": "T = 2 pi sqrt(L/g)"
+  },
+  {
+    "instruction": "In physics, what is a restoring force?",
+    "output": "A restoring force acts toward a stable equilibrium position."
+  },
+  {
+    "instruction": "How do you express sinusoidal wave speed mathematically?",
+    "output": "v = f lambda"
+  },
+  {
+    "instruction": "In physics, what is position?",
+    "output": "Position specifies where an object is relative to a reference frame."
+  },
+  {
+    "instruction": "How do you express momentum mathematically?",
+    "output": "p = mv in classical mechanics"
+  },
+  {
+    "instruction": "In physics, what is an inelastic collision?",
+    "output": "An inelastic collision conserves momentum but not necessarily kinetic energy."
+  },
+  {
+    "instruction": "How do you express thermal efficiency of a heat engine mathematically?",
+    "output": "eta = W_out/Q_hot"
+  },
+  {
+    "instruction": "How do you express uniform motion mathematically?",
+    "output": "x = x0 + vt for constant velocity"
+  },
+  {
+    "instruction": "In physics, what is the angular form of Newton's second law?",
+    "output": "Net torque equals the rate of change of angular momentum."
+  },
+  {
+    "instruction": "How do you express Carnot efficiency mathematically?",
+    "output": "eta_C = 1 - T_c/T_h, with temperatures in kelvin"
+  },
+  {
+    "instruction": "In physics, what is a kelvin?",
+    "output": "The kelvin is the SI unit of absolute temperature."
+  },
+  {
+    "instruction": "In physics, what is gravitational potential?",
+    "output": "Gravitational potential is potential energy per unit mass."
+  },
+  {
+    "instruction": "Are elastic collision and inelastic collision the same?",
+    "output": "No. An elastic collision conserves kinetic energy and momentum; an inelastic collision generally does not conserve kinetic energy."
+  },
+  {
+    "instruction": "In physics, what is conservation of angular momentum?",
+    "output": "Angular momentum stays constant if net external torque is zero."
+  },
+  {
+    "instruction": "Are pressure and force the same?",
+    "output": "No. Pressure is force per unit area; force is an interaction measured in newtons."
+  },
+  {
+    "instruction": "In physics, what is gravitational field strength?",
+    "output": "Gravitational field strength is force per unit mass."
+  },
+  {
+    "instruction": "In physics, what is a wave?",
+    "output": "A wave is a disturbance that carries energy through space or a medium."
+  },
+  {
+    "instruction": "Are torque and force the same?",
+    "output": "No. Force changes linear momentum; torque changes angular momentum."
+  },
+  {
+    "instruction": "How do you express motion without time under constant acceleration mathematically?",
+    "output": "v^2 = v0^2 + 2a(x - x0)"
+  },
+  {
+    "instruction": "In physics, what is perfectly inelastic collision?",
+    "output": "In a perfectly inelastic collision, the objects stick together afterward."
+  },
+  {
+    "instruction": "How do you express constant-force impulse mathematically?",
+    "output": "J = F Delta t for a constant force"
+  },
+  {
+    "instruction": "Are traveling wave and standing wave the same?",
+    "output": "No. A traveling wave propagates; a standing wave has fixed nodes and antinodes."
+  },
+  {
+    "instruction": "How do you express angular velocity mathematically?",
+    "output": "omega = Delta theta / Delta t for average angular velocity"
+  },
+  {
+    "instruction": "How do you express orbital period for a circular orbit mathematically?",
+    "output": "T = 2 pi sqrt(r^3/(GM))"
+  },
+  {
+    "instruction": "In physics, what is mechanical energy?",
+    "output": "Mechanical energy is the sum of kinetic and potential energy."
+  },
+  {
+    "instruction": "Are isobaric process and isochoric process the same?",
+    "output": "No. Isobaric means constant pressure; isochoric means constant volume."
+  },
+  {
+    "instruction": "How do you express ideal gas law mathematically?",
+    "output": "pV = nRT with T in kelvin"
+  },
+  {
+    "instruction": "In physics, what is natural frequency?",
+    "output": "Natural frequency is the rate at which a system oscillates when disturbed without continuous forcing."
+  },
+  {
+    "instruction": "In physics, what is a physical quantity?",
+    "output": "A physical quantity is a measurable property expressed by a number and a unit."
+  },
+  {
+    "instruction": "In physics, what is centrifugal force?",
+    "output": "Centrifugal force is an apparent outward force in a rotating reference frame."
+  },
+  {
+    "instruction": "In physics, what is the center of mass?",
+    "output": "The center of mass is the mass-weighted average position of a system."
+  },
+  {
+    "instruction": "In physics, what is angular velocity?",
+    "output": "Angular velocity is the rate of change of angular position."
+  },
+  {
+    "instruction": "How do you express kinetic energy mathematically?",
+    "output": "K = (1/2)mv^2 for nonrelativistic motion"
+  },
+  {
+    "instruction": "Are isothermal process and adiabatic process the same?",
+    "output": "No. Isothermal means constant temperature; adiabatic means no heat crosses the boundary."
+  },
+  {
+    "instruction": "In physics, what is a rigid body?",
+    "output": "A rigid body is an ideal object whose internal distances do not change."
+  },
+  {
+    "instruction": "In physics, what is thermal contact?",
+    "output": "Two systems are in thermal contact when they can exchange energy as heat."
+  },
+  {
+    "instruction": "How do you express rotational kinetic energy mathematically?",
+    "output": "K_rot = (1/2)I omega^2"
+  },
+  {
+    "instruction": "How do you express mass conservation in steady incompressible flow mathematically?",
+    "output": "A1 v1 = A2 v2"
+  },
+  {
+    "instruction": "In physics, what is laminar flow?",
+    "output": "Laminar flow has orderly fluid motion in smooth layers."
+  },
+  {
+    "instruction": "In physics, what is amplitude?",
+    "output": "Amplitude is the maximum displacement from equilibrium in an oscillation."
+  },
+  {
+    "instruction": "In physics, what is sound intensity?",
+    "output": "Sound intensity is average sound power passing through unit area."
+  },
+  {
+    "instruction": "In physics, what is the second law of thermodynamics?",
+    "output": "The second law states that the total entropy of an isolated system cannot decrease."
+  },
+  {
+    "instruction": "In physics, what is average velocity?",
+    "output": "Average velocity is displacement divided by elapsed time."
+  },
+  {
+    "instruction": "In physics, what is instantaneous velocity?",
+    "output": "Instantaneous velocity is the velocity at a particular moment."
+  },
+  {
+    "instruction": "How do you express mechanical efficiency mathematically?",
+    "output": "efficiency = useful output energy / input energy"
+  },
+  {
+    "instruction": "Are Newton's first law and Newton's second law the same?",
+    "output": "No. The first law describes motion with zero net force; the second relates net force to acceleration."
+  },
+  {
+    "instruction": "How do you express instantaneous velocity mathematically?",
+    "output": "v = dx/dt in one dimension"
+  },
+  {
+    "instruction": "In physics, what is Newton's law of gravitation?",
+    "output": "Newton's law of gravitation says two masses attract with force proportional to their masses and inversely proportional to distance squared."
+  },
+  {
+    "instruction": "In physics, what is classical mechanics?",
+    "output": "Classical mechanics describes motion and forces at ordinary speeds and macroscopic scales."
+  },
+  {
+    "instruction": "In physics, what is the gravitational constant?",
+    "output": "The gravitational constant G sets the strength of gravity in Newton's law."
+  },
+  {
+    "instruction": "In physics, what is measurement?",
+    "output": "Measurement compares a physical quantity with a chosen standard unit."
+  },
+  {
+    "instruction": "How do you express angular acceleration mathematically?",
+    "output": "alpha = Delta omega / Delta t for average angular acceleration"
+  },
+  {
+    "instruction": "In physics, what is moment of inertia?",
+    "output": "Moment of inertia measures resistance to angular acceleration about an axis."
+  },
+  {
+    "instruction": "In physics, what is resultant force?",
+    "output": "Resultant force means the same as net force: the vector sum of forces on one object."
+  },
+  {
+    "instruction": "In physics, what is an isobaric process?",
+    "output": "An isobaric process occurs at constant pressure."
+  },
+  {
+    "instruction": "In physics, what is heat conduction?",
+    "output": "Conduction transfers thermal energy through matter without bulk transport of the material."
+  },
+  {
+    "instruction": "In physics, what is the thermal efficiency?",
+    "output": "Thermal efficiency is useful work output divided by heat absorbed from a hot reservoir."
+  },
+  {
+    "instruction": "In physics, what is rotational motion?",
+    "output": "Rotational motion is motion about an axis."
+  },
+  {
+    "instruction": "In physics, what is rotational inertia?",
+    "output": "Rotational inertia is another name for moment of inertia."
+  },
+  {
+    "instruction": "In physics, what is average acceleration?",
+    "output": "Average acceleration is change in velocity divided by elapsed time."
+  },
+  {
+    "instruction": "In physics, what is a transverse wave?",
+    "output": "A transverse wave oscillates perpendicular to its direction of travel."
+  },
+  {
+    "instruction": "In physics, what is the terminal velocity?",
+    "output": "Terminal velocity is reached when drag balances the other forces along the motion."
+  },
+  {
+    "instruction": "Are reversible process and irreversible process the same?",
+    "output": "No. A reversible process can be undone without net changes elsewhere; an irreversible process cannot."
+  },
+  {
+    "instruction": "Are static friction and kinetic friction the same?",
+    "output": "No. Static friction prevents sliding; kinetic friction acts during sliding."
+  },
+  {
+    "instruction": "In physics, what is thermal radiation?",
+    "output": "Thermal radiation transfers energy through electromagnetic waves."
+  },
+  {
+    "instruction": "In physics, what is Kepler's second law?",
+    "output": "Kepler's second law says the line from a planet to the Sun sweeps equal areas in equal times."
+  },
+  {
+    "instruction": "In physics, what are surroundings in thermodynamics?",
+    "output": "The surroundings are everything outside the chosen thermodynamic system."
+  },
+  {
+    "instruction": "Are force and acceleration the same?",
+    "output": "No. Force is an interaction; acceleration is the change in velocity caused by net force."
+  },
+  {
+    "instruction": "In physics, what is a fluid?",
+    "output": "A fluid is a substance that flows under shear stress."
+  },
+  {
+    "instruction": "In physics, what is a orbital period?",
+    "output": "Orbital period is the time for one complete orbit."
+  },
+  {
+    "instruction": "In physics, what is external force?",
+    "output": "An external force acts on a system from something outside it."
+  },
+  {
+    "instruction": "In physics, what is atmospheric pressure?",
+    "output": "Atmospheric pressure is the pressure exerted by the air around us."
+  },
+  {
+    "instruction": "In physics, what is entropy?",
+    "output": "Entropy is a thermodynamic state variable related to energy dispersal and the number of accessible microscopic states."
+  },
+  {
+    "instruction": "In physics, what is buoyancy?",
+    "output": "Buoyancy is the upward force a fluid exerts on an immersed object."
+  },
+  {
+    "instruction": "In physics, what is a period?",
+    "output": "Period is the time needed to complete one cycle."
+  },
+  {
+    "instruction": "In physics, what is a mole?",
+    "output": "A mole is an amount of substance containing Avogadro's number of entities."
+  },
+  {
+    "instruction": "Are kinetic energy and potential energy the same?",
+    "output": "No. Kinetic energy depends on motion; potential energy depends on configuration."
+  },
+  {
+    "instruction": "In physics, what is weightlessness?",
+    "output": "Weightlessness is the absence of a supporting contact force felt by an observer."
+  },
+  {
+    "instruction": "In physics, what is static friction?",
+    "output": "Static friction prevents two contacting surfaces from sliding."
+  },
+  {
+    "instruction": "Are period and frequency the same?",
+    "output": "No. Period is time per cycle; frequency is cycles per second, so f = 1/T."
+  },
+  {
+    "instruction": "In physics, what is an isothermal process?",
+    "output": "An isothermal process occurs at constant temperature."
+  },
+  {
+    "instruction": "In physics, what is conservation of energy?",
+    "output": "Energy cannot be created or destroyed in an isolated system."
+  },
+  {
+    "instruction": "In physics, what is thermodynamics?",
+    "output": "Thermodynamics studies heat, work, temperature, and changes in energy."
+  },
+  {
+    "instruction": "How do you express velocity under constant acceleration mathematically?",
+    "output": "v = v0 + at"
+  },
+  {
+    "instruction": "In physics, what is equilibrium position?",
+    "output": "Equilibrium position is where net force is zero."
+  },
+  {
+    "instruction": "In physics, what is torque?",
+    "output": "Torque measures the tendency of a force to rotate a body about an axis."
+  },
+  {
+    "instruction": "In physics, what is a normal force?",
+    "output": "The normal force is a contact force perpendicular to a surface."
+  },
+  {
+    "instruction": "In physics, what is gravity?",
+    "output": "Gravity is the attraction between masses described by Newton's law in classical physics."
+  },
+  {
+    "instruction": "In physics, what is thermal expansion?",
+    "output": "Thermal expansion is a change in material dimensions caused by temperature change."
+  },
+  {
+    "instruction": "In physics, what is an isochoric process?",
+    "output": "An isochoric process takes place at constant volume."
+  },
+  {
+    "instruction": "How do you express first law of thermodynamics mathematically?",
+    "output": "Delta U = Q - W_by when W_by is work done by the system"
+  },
+  {
+    "instruction": "Are energy and power the same?",
+    "output": "No. Energy is a quantity that can be transferred or transformed; power is its rate of transfer."
+  },
+  {
+    "instruction": "In physics, what is an adiabatic process?",
+    "output": "An adiabatic process has no heat transfer across the system boundary."
+  },
+  {
+    "instruction": "In physics, what is molar heat capacity?",
+    "output": "Molar heat capacity is heat capacity per mole."
+  },
+  {
+    "instruction": "In physics, what is free fall?",
+    "output": "Free fall is motion under gravity alone."
+  },
+  {
+    "instruction": "In physics, what is potential energy?",
+    "output": "Potential energy depends on configuration in a conservative interaction."
+  },
+  {
+    "instruction": "How do you express centripetal force mathematically?",
+    "output": "F_c = mv^2/r"
+  },
+  {
+    "instruction": "In physics, what is orbital speed?",
+    "output": "Orbital speed is the speed of an orbiting body."
+  },
+  {
+    "instruction": "In physics, what is physics?",
+    "output": "Physics studies matter, energy, motion, forces, and how the natural world behaves."
+  },
+  {
+    "instruction": "How do you express average acceleration mathematically?",
+    "output": "a_avg = Delta v / Delta t"
+  },
+  {
+    "instruction": "In physics, what is angular frequency?",
+    "output": "Angular frequency measures oscillation phase change per second."
+  },
+  {
+    "instruction": "In physics, what is mechanics?",
+    "output": "Mechanics is the branch of physics that studies motion, forces, and equilibrium."
+  },
+  {
+    "instruction": "Are net force and individual force the same?",
+    "output": "No. Net force is the vector sum of all forces; one individual force may be balanced by others."
+  },
+  {
+    "instruction": "In physics, what is elastic potential energy?",
+    "output": "An ideal spring stores elastic potential energy when stretched or compressed."
+  },
+  {
+    "instruction": "How do you express kinetic friction force mathematically?",
+    "output": "f_k = mu_k N in the simple sliding-friction model"
+  },
+  {
+    "instruction": "In physics, what is mechanical efficiency?",
+    "output": "Mechanical efficiency is useful output energy divided by input energy."
+  },
+  {
+    "instruction": "Are speed and velocity the same?",
+    "output": "No. Speed is a nonnegative scalar; velocity includes direction."
+  },
+  {
+    "instruction": "In physics, what is acceleration?",
+    "output": "Acceleration is the rate of change of velocity with time."
+  },
+  {
+    "instruction": "How do you express elastic potential energy mathematically?",
+    "output": "U = (1/2)kx^2 for an ideal spring"
+  },
+  {
+    "instruction": "In physics, what is wave speed?",
+    "output": "Wave speed is the speed at which a wave pattern or disturbance propagates."
+  },
+  {
+    "instruction": "In physics, what is energy dissipation?",
+    "output": "Energy dissipation converts organized mechanical energy into less recoverable forms."
+  },
+  {
+    "instruction": "In physics, what is a gravitational field?",
+    "output": "A gravitational field describes the force per unit mass at a position."
+  },
+  {
+    "instruction": "In physics, what is melting?",
+    "output": "Melting is the change from solid to liquid."
+  },
+  {
+    "instruction": "In physics, what is relative velocity?",
+    "output": "Relative velocity is the velocity of one object measured from another frame."
+  },
+  {
+    "instruction": "How do you express root-mean-square molecular speed of an ideal gas mathematically?",
+    "output": "v_rms = sqrt(3RT/M) with molar mass M in kg/mol"
+  },
+  {
+    "instruction": "In physics, what is Bernoulli's principle?",
+    "output": "Bernoulli's principle relates pressure, speed, and height along steady ideal-fluid flow."
+  },
+  {
+    "instruction": "In physics, what is heat?",
+    "output": "Heat is energy transferred because of a temperature difference."
+  },
+  {
+    "instruction": "Are mechanical energy and internal energy the same?",
+    "output": "No. Mechanical energy tracks bulk kinetic and potential energy; internal energy describes microscopic energy within a system."
+  },
+  {
+    "instruction": "In physics, what is density?",
+    "output": "Density is mass divided by volume."
+  },
+  {
+    "instruction": "In physics, what is kinematics?",
+    "output": "Kinematics describes motion without analyzing its causes."
+  },
+  {
+    "instruction": "In physics, what is an irreversible process?",
+    "output": "An irreversible process produces entropy and cannot be fully undone without changes to surroundings."
+  },
+  {
+    "instruction": "How do you express circular-motion angular speed mathematically?",
+    "output": "omega = v/r"
+  },
+  {
+    "instruction": "In physics, what is the zeroth law of thermodynamics?",
+    "output": "If two systems are each in thermal equilibrium with a third, they are in equilibrium with each other."
+  },
+  {
+    "instruction": "In physics, what is specific heat capacity?",
+    "output": "Specific heat capacity is heat capacity per unit mass."
+  },
+  {
+    "instruction": "In physics, what is tangential speed?",
+    "output": "Tangential speed is the linear speed along a circular path."
+  },
+  {
+    "instruction": "In physics, what is a phase change?",
+    "output": "A phase change is a transition between states such as solid, liquid, and gas."
+  },
+  {
+    "instruction": "In physics, what is zero work?",
+    "output": "A force does zero work when it is perpendicular to displacement."
+  },
+  {
+    "instruction": "How do you express Hooke's law mathematically?",
+    "output": "F = -kx for an ideal linear spring"
+  },
+  {
+    "instruction": "How do you express instantaneous mechanical power mathematically?",
+    "output": "P = F dot v"
+  },
+  {
+    "instruction": "In physics, what is escape speed?",
+    "output": "Escape speed is the minimum launch speed needed to reach infinity with zero final speed in an ideal gravitational model."
+  },
+  {
+    "instruction": "In physics, what is the impulse-momentum theorem?",
+    "output": "The impulse-momentum theorem states that impulse equals change in momentum."
+  },
+  {
+    "instruction": "In physics, what is static equilibrium?",
+    "output": "Static equilibrium means a body remains at rest with balanced forces and torques."
+  },
+  {
+    "instruction": "In physics, what is displacement?",
+    "output": "Displacement is the change in position from the initial to the final point."
+  },
+  {
+    "instruction": "In physics, what is gas pressure?",
+    "output": "Gas pressure is force per unit area exerted on container walls."
+  },
+  {
+    "instruction": "How do you express work-energy theorem mathematically?",
+    "output": "W_net = Delta K"
+  },
+  {
+    "instruction": "In physics, what is friction?",
+    "output": "Friction is a contact force that opposes relative sliding or its tendency."
+  },
+  {
+    "instruction": "In physics, what is kinetic friction?",
+    "output": "Kinetic friction opposes relative sliding between surfaces."
+  },
+  {
+    "instruction": "In physics, what is centripetal acceleration?",
+    "output": "Centripetal acceleration points toward the center of a circular path."
+  },
+  {
+    "instruction": "Are orbital speed and escape speed the same?",
+    "output": "No. Orbital speed sustains an ideal circular orbit; escape speed is the threshold for unbound motion without further thrust."
+  },
+  {
+    "instruction": "Are distance and displacement the same?",
+    "output": "No. Distance is total path length; displacement is the change in position."
+  },
+  {
+    "instruction": "In physics, what is the continuity equation?",
+    "output": "The continuity equation expresses conservation of mass in fluid flow."
+  },
+  {
+    "instruction": "In physics, what is simple harmonic motion?",
+    "output": "Simple harmonic motion occurs when acceleration is proportional and opposite to displacement."
+  },
+  {
+    "instruction": "In physics, what is a refrigerator?",
+    "output": "A refrigerator uses work to transfer heat from a colder region to a warmer region."
+  },
+  {
+    "instruction": "How do you express Newton's second law mathematically?",
+    "output": "F_net = ma for constant mass"
+  },
+  {
+    "instruction": "In physics, what is a hydraulic press?",
+    "output": "A hydraulic press uses pressure transmitted through a fluid to produce force on a larger piston."
+  },
+  {
+    "instruction": "In physics, what is a simple pendulum?",
+    "output": "A simple pendulum is an ideal point mass suspended by a light string."
+  },
+  {
+    "instruction": "Are Newton's second law and Newton's third law the same?",
+    "output": "No. The second law describes a body's response to net force; the third describes equal and opposite forces on interacting bodies."
+  },
+  {
+    "instruction": "Are heat engine and refrigerator the same?",
+    "output": "No. A heat engine turns some absorbed heat into work; a refrigerator uses work to move heat from cold to hot."
+  },
+  {
+    "instruction": "How do you express average speed mathematically?",
+    "output": "average speed = total distance / elapsed time"
+  },
+  {
+    "instruction": "In physics, what is power?",
+    "output": "Power is the rate of energy transfer or work done."
+  },
+  {
+    "instruction": "In physics, what is rest?",
+    "output": "An object is at rest when its position is constant in a chosen frame."
+  },
+  {
+    "instruction": "In physics, what is rolling without slipping?",
+    "output": "Rolling without slipping means the contact point is instantaneously at rest relative to the surface."
+  },
+  {
+    "instruction": "In physics, what is orbit?",
+    "output": "An orbit is the trajectory of an object moving under gravity."
+  },
+  {
+    "instruction": "In physics, what is the maximum height of a projectile?",
+    "output": "Maximum height is the highest vertical position reached in flight."
+  },
+  {
+    "instruction": "In physics, what are force components?",
+    "output": "Force components are projections of a force along chosen axes."
+  },
+  {
+    "instruction": "In physics, what is a standing wave?",
+    "output": "A standing wave has fixed nodes and antinodes."
+  },
+  {
+    "instruction": "In physics, what are SI units?",
+    "output": "SI is the international system of units used in science."
+  },
+  {
+    "instruction": "In physics, what is position-time graph?",
+    "output": "A position-time graph shows position as a function of time."
+  },
+  {
+    "instruction": "How do you express angular frequency mathematically?",
+    "output": "omega = 2 pi f"
+  },
+  {
+    "instruction": "How do you express centripetal acceleration mathematically?",
+    "output": "a_c = v^2/r = omega^2 r"
+  },
+  {
+    "instruction": "How do you express orbital speed for a circular orbit mathematically?",
+    "output": "v = sqrt(GM/r) for a spherical central mass"
+  },
+  {
+    "instruction": "Are amplitude and frequency the same?",
+    "output": "No. Amplitude measures maximum displacement; frequency counts cycles per second."
+  },
+  {
+    "instruction": "In physics, what is latent heat?",
+    "output": "Latent heat is energy absorbed or released during a phase change at constant temperature."
+  },
+  {
+    "instruction": "How do you express buoyant force mathematically?",
+    "output": "F_b = rho_fluid g V_displaced"
+  },
+  {
+    "instruction": "In physics, what is Hooke's law?",
+    "output": "Hooke's law describes the restoring force of an ideal linear spring."
+  },
+  {
+    "instruction": "In physics, what is a spring oscillator?",
+    "output": "A spring oscillator is a mass moving under a spring's restoring force."
+  },
+  {
+    "instruction": "Are mass and weight the same?",
+    "output": "No. Mass measures inertia and is measured in kilograms; weight is a gravitational force measured in newtons."
+  },
+  {
+    "instruction": "In physics, what is coefficient of friction?",
+    "output": "The coefficient of friction describes the ratio of friction force to normal force in a simple model."
+  },
+  {
+    "instruction": "How do you express ideal gas pressure in particle form mathematically?",
+    "output": "pV = N k_B T"
+  },
+  {
+    "instruction": "In physics, what is a vector?",
+    "output": "A vector has both magnitude and direction."
+  },
+  {
+    "instruction": "How do you express net torque for fixed-axis rotation mathematically?",
+    "output": "tau_net = I alpha for constant moment of inertia"
+  },
+  {
+    "instruction": "In physics, what is an elastic collision?",
+    "output": "An elastic collision conserves both total momentum and kinetic energy."
+  },
+  {
+    "instruction": "How do you express rolling without slipping mathematically?",
+    "output": "v_center = omega R"
+  },
+  {
+    "instruction": "How do you express oscillation of a spring-mass system mathematically?",
+    "output": "omega = sqrt(k/m)"
+  },
+  {
+    "instruction": "In physics, what is the range of a projectile?",
+    "output": "Range is the horizontal distance from launch to landing."
+  },
+  {
+    "instruction": "In physics, what is average speed?",
+    "output": "Average speed is total distance divided by elapsed time."
+  },
+  {
+    "instruction": "Are heat and internal energy the same?",
+    "output": "No. Heat is energy in transfer; internal energy is a property of the system's state."
+  },
+  {
+    "instruction": "In physics, what is boiling?",
+    "output": "Boiling is vaporization occurring throughout a liquid when its vapor pressure matches external pressure."
+  },
+  {
+    "instruction": "In physics, what is conservation of momentum?",
+    "output": "Total momentum stays constant when the net external impulse on a system is zero."
+  },
+  {
+    "instruction": "In physics, what is vertical motion of a projectile?",
+    "output": "A projectile's vertical velocity changes because of gravity."
+  },
+  {
+    "instruction": "In physics, what is tension?",
+    "output": "Tension is a pulling force transmitted through a rope, string, or cable."
+  },
+  {
+    "instruction": "In physics, what is the work-energy theorem?",
+    "output": "The work-energy theorem says net work equals the change in kinetic energy."
+  },
+  {
+    "instruction": "In physics, what is horizontal motion of a projectile?",
+    "output": "Without air resistance, a projectile's horizontal velocity stays constant."
+  },
+  {
+    "instruction": "How do you express pressure increase in a stationary liquid mathematically?",
+    "output": "Delta p = rho g h for constant density"
+  },
+  {
+    "instruction": "How do you express heat at constant specific heat mathematically?",
+    "output": "Q = mc Delta T if no phase change occurs"
+  },
+  {
+    "instruction": "In physics, what is a trajectory?",
+    "output": "A trajectory is the path followed by a moving object."
+  },
+  {
+    "instruction": "In physics, what is kinetic energy?",
+    "output": "Kinetic energy is energy associated with motion."
+  },
+  {
+    "instruction": "In physics, what is frequency?",
+    "output": "Frequency is the number of cycles per unit time."
+  },
+  {
+    "instruction": "In physics, what is turbulent flow?",
+    "output": "Turbulent flow has irregular fluctuating fluid motion."
+  },
+  {
+    "instruction": "How do you express frequency and period mathematically?",
+    "output": "f = 1/T"
+  },
+  {
+    "instruction": "How do you express internal energy of a monatomic ideal gas mathematically?",
+    "output": "U = (3/2)nRT in the classical ideal-gas model"
+  },
+  {
+    "instruction": "In physics, what is angular displacement?",
+    "output": "Angular displacement measures the change in orientation or angle."
+  },
+  {
+    "instruction": "How do you express thermal expansion of a rod mathematically?",
+    "output": "Delta L = alpha L0 Delta T for small temperature changes"
+  },
+  {
+    "instruction": "How do you express position under constant acceleration mathematically?",
+    "output": "x = x0 + v0 t + (1/2)at^2"
+  },
+  {
+    "instruction": "In physics, what is thermal energy?",
+    "output": "Thermal energy is commonly used for microscopic energy associated with temperature."
+  },
+  {
+    "instruction": "How do you express instantaneous acceleration mathematically?",
+    "output": "a = dv/dt = d^2x/dt^2 in one dimension"
+  },
+  {
+    "instruction": "How do you express impulse mathematically?",
+    "output": "J = Delta p = integral(F dt)"
+  },
+  {
+    "instruction": "In physics, what is velocity?",
+    "output": "Velocity is the rate of change of position with time."
+  },
+  {
+    "instruction": "In physics, what is angular momentum?",
+    "output": "Angular momentum describes rotational motion."
+  },
+  {
+    "instruction": "How do you express moment of inertia of a uniform solid disk mathematically?",
+    "output": "I = (1/2)MR^2 about its symmetry axis"
+  },
+  {
+    "instruction": "In physics, what is floating?",
+    "output": "An object floats in equilibrium when buoyancy balances its weight."
+  },
+  {
+    "instruction": "Are rest and uniform motion the same?",
+    "output": "No. Rest means constant position in a frame; uniform motion means constant velocity, which can be nonzero."
+  },
+  {
+    "instruction": "In physics, what is wavelength?",
+    "output": "Wavelength is the spatial distance between successive points with the same phase."
+  },
+  {
+    "instruction": "In physics, what is temperature?",
+    "output": "Temperature describes thermal state and determines the direction of spontaneous heat transfer."
+  },
+  {
+    "instruction": "In physics, what is an oscillation?",
+    "output": "An oscillation is repeated motion around an equilibrium state."
+  },
+  {
+    "instruction": "How do you express moment of inertia of a point mass mathematically?",
+    "output": "I = mr^2 relative to the axis"
+  },
+  {
+    "instruction": "In physics, what is the ideal gas law?",
+    "output": "The ideal gas law relates pressure, volume, amount of gas, and temperature."
+  },
+  {
+    "instruction": "In physics, what is air resistance?",
+    "output": "Air resistance is a drag force exerted by air on a moving body."
+  },
+  {
+    "instruction": "How do you express gravitational potential energy near Earth mathematically?",
+    "output": "U = mgh relative to a chosen reference height"
+  },
+  {
+    "instruction": "In physics, what is thermodynamic work?",
+    "output": "Thermodynamic work is energy transfer through macroscopic forces and motion of boundaries."
+  },
+  {
+    "instruction": "Are conservative force and nonconservative force the same?",
+    "output": "No. Work by a conservative force is path-independent; work by a nonconservative force generally depends on the path."
+  },
+  {
+    "instruction": "In physics, what is force?",
+    "output": "A force is an interaction that can change an object's motion."
+  },
+  {
+    "instruction": "In physics, what is a radian?",
+    "output": "A radian is an angular unit defined by arc length divided by radius."
+  },
+  {
+    "instruction": "In physics, what is momentum?",
+    "output": "Linear momentum is mass times velocity in classical mechanics."
+  },
+  {
+    "instruction": "In physics, what is pressure?",
+    "output": "Pressure is normal force per unit area."
+  },
+  {
+    "instruction": "In physics, what is a longitudinal wave?",
+    "output": "A longitudinal wave oscillates parallel to its direction of travel."
+  },
+  {
+    "instruction": "In physics, what is damping?",
+    "output": "Damping is the gradual loss of oscillation energy due to resistive effects."
+  },
+  {
+    "instruction": "In physics, what is model in physics?",
+    "output": "A physical model is a simplified description of a real system."
+  },
+  {
+    "instruction": "In physics, what is a reversible process?",
+    "output": "A reversible process can be undone without a net change to system and surroundings."
+  },
+  {
+    "instruction": "In physics, what is weight?",
+    "output": "Weight is the gravitational force acting on an object."
+  },
+  {
+    "instruction": "In physics, what is uniform motion?",
+    "output": "Uniform motion means constant velocity."
+  },
+  {
+    "instruction": "How do you express entropy change for a reversible isothermal heat transfer mathematically?",
+    "output": "Delta S = Q_rev/T at constant temperature"
+  },
+  {
+    "instruction": "In physics, what is a temperature gradient?",
+    "output": "A temperature gradient describes how temperature changes across space."
+  },
+  {
+    "instruction": "How do you express coefficient of performance of a refrigerator mathematically?",
+    "output": "COP = Q_cold/W_in"
+  },
+  {
+    "instruction": "In physics, what is a heat reservoir?",
+    "output": "A heat reservoir is an ideal body whose temperature stays essentially constant while exchanging heat."
+  },
+  {
+    "instruction": "In physics, what is a time interval?",
+    "output": "A time interval is the duration between two events."
+  },
+  {
+    "instruction": "In physics, what are Newton's laws of motion?",
+    "output": "Newton's three laws describe inertia, the effect of net force, and action-reaction pairs."
+  },
+  {
+    "instruction": "In physics, what is angular acceleration?",
+    "output": "Angular acceleration is the rate of change of angular velocity."
+  },
+  {
+    "instruction": "In physics, what is acceleration-time graph?",
+    "output": "An acceleration-time graph shows acceleration over time."
+  },
+  {
+    "instruction": "Are heat capacity and specific heat capacity the same?",
+    "output": "No. Heat capacity is per entire system; specific heat capacity is per unit mass."
+  },
+  {
+    "instruction": "In physics, what is Newtonian mechanics?",
+    "output": "Newtonian mechanics describes motion using Newton's laws of force and acceleration."
+  },
+  {
+    "instruction": "In physics, what is rotational kinetic energy?",
+    "output": "Rotational kinetic energy is energy of motion due to rotation."
+  },
+  {
+    "instruction": "In physics, what is heat capacity?",
+    "output": "Heat capacity is the energy needed to raise a system's temperature by one kelvin under specified conditions."
+  },
+  {
+    "instruction": "Are conduction and radiation the same?",
+    "output": "No. Conduction needs matter; thermal radiation can travel through a vacuum."
+  },
+  {
+    "instruction": "How do you express vertical projectile motion mathematically?",
+    "output": "y = y0 + v0y t - (1/2)gt^2 when upward is positive"
+  },
+  {
+    "instruction": "In physics, what is flow rate?",
+    "output": "Volume flow rate is the volume of fluid crossing a section per unit time."
+  },
+  {
+    "instruction": "In physics, what is gravity near Earth's surface?",
+    "output": "Near Earth's surface, gravity gives freely falling bodies an acceleration of about 9.81 m/s^2 downward."
+  },
+  {
+    "instruction": "In physics, what is small-angle approximation?",
+    "output": "The small-angle approximation uses sin(theta) approximately theta when theta is in radians and small."
+  },
+  {
+    "instruction": "Are gravity and weight the same?",
+    "output": "No. Gravity is an interaction or field; weight is the gravitational force on a particular object."
+  },
+  {
+    "instruction": "In physics, what is Carnot efficiency?",
+    "output": "Carnot efficiency is the maximum efficiency of a reversible heat engine between two temperatures."
+  },
+  {
+    "instruction": "In physics, what is dynamic equilibrium?",
+    "output": "Dynamic equilibrium can mean motion at constant velocity with zero net force."
+  },
+  {
+    "instruction": "Are impulse and momentum the same?",
+    "output": "No. Momentum describes motion of matter; impulse is the change in momentum caused by force over time."
+  },
+  {
+    "instruction": "Are laminar flow and turbulent flow the same?",
+    "output": "No. Laminar flow is orderly; turbulent flow has irregular velocity fluctuations."
+  },
+  {
+    "instruction": "How do you express angular momentum of a fixed-axis rigid body mathematically?",
+    "output": "L = I omega about its fixed principal axis"
+  },
+  {
+    "instruction": "In physics, what is absolute zero?",
+    "output": "Absolute zero is 0 K, the lower limit of thermodynamic temperature."
+  },
+  {
+    "instruction": "In physics, what is circular motion?",
+    "output": "Circular motion is motion along a circular path."
+  },
+  {
+    "instruction": "In physics, what is work?",
+    "output": "Work is energy transferred by a force acting through displacement."
+  },
+  {
+    "instruction": "In physics, what is a newton?",
+    "output": "One newton is the force needed to accelerate 1 kg by 1 m/s^2."
+  },
+  {
+    "instruction": "In physics, what is distance?",
+    "output": "Distance is the total length of the path traveled."
+  },
+  {
+    "instruction": "In physics, what is a thermodynamic system?",
+    "output": "A thermodynamic system is the chosen matter or region being studied."
+  },
+  {
+    "instruction": "In physics, what is driven oscillation?",
+    "output": "Driven oscillation occurs when an external periodic force acts on an oscillator."
+  },
+  {
+    "instruction": "In physics, what is projectile trajectory?",
+    "output": "Without air resistance, a projectile launched near Earth follows a parabola."
+  },
+  {
+    "instruction": "How do you express pressure mathematically?",
+    "output": "p = F_perpendicular/A for uniform normal force"
+  },
+  {
+    "instruction": "In physics, what is mechanical equilibrium?",
+    "output": "Mechanical equilibrium means the net force is zero."
+  },
+  {
+    "instruction": "In physics, what is impulse?",
+    "output": "Impulse is the time integral of force."
+  },
+  {
+    "instruction": "In physics, what is the kinetic theory of gases?",
+    "output": "Kinetic theory explains gas pressure and temperature using particle motion."
+  },
+  {
+    "instruction": "In physics, what is resonance?",
+    "output": "Resonance is a strong response when driving frequency is near a natural frequency."
+  },
+  {
+    "instruction": "How do you express average power mathematically?",
+    "output": "P_avg = W / Delta t"
+  },
+  {
+    "instruction": "How do you express vertical free fall from rest mathematically?",
+    "output": "h = (1/2)gt^2 when downward is positive and air drag is neglected"
+  }
+]

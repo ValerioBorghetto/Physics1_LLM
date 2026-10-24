@@ -1,0 +1,1426 @@
+[
+  {
+    "instruction": "Could you briefly explain viscosity?",
+    "output": "Viscosity describes a fluid's resistance to relative motion between neighboring layers. Honey is generally more viscous than water."
+  },
+  {
+    "instruction": "Write the formula for angular frequency.",
+    "output": "omega = 2 pi f"
+  },
+  {
+    "instruction": "Could you briefly explain terminal velocity?",
+    "output": "Terminal velocity is reached when drag balances the other forces along the motion. At terminal velocity, net acceleration is zero."
+  },
+  {
+    "instruction": "Could you briefly explain gravitational constant?",
+    "output": "The gravitational constant G sets the strength of gravity in Newton's law. Its approximate value is 6.674 x 10^-11 N m^2/kg^2."
+  },
+  {
+    "instruction": "Could you briefly explain vector?",
+    "output": "A vector has both magnitude and direction. Displacement, velocity, acceleration, and force are vectors."
+  },
+  {
+    "instruction": "Could you briefly explain thermodynamic work?",
+    "output": "Thermodynamic work is energy transfer through macroscopic forces and motion of boundaries. For quasistatic expansion work done by a gas, W_by = integral(p dV)."
+  },
+  {
+    "instruction": "Could you briefly explain kinetic theory of gases?",
+    "output": "Kinetic theory explains gas pressure and temperature using particle motion. Gas pressure comes from particles colliding with container walls."
+  },
+  {
+    "instruction": "Could you briefly explain density?",
+    "output": "Density is mass divided by volume. Its SI unit is kg/m^3; rho = m/V."
+  },
+  {
+    "instruction": "Could you briefly explain dimensional analysis?",
+    "output": "Dimensional analysis checks equations using physical units. Both sides of a valid physical equation must have matching dimensions."
+  },
+  {
+    "instruction": "Could you briefly explain atmospheric pressure?",
+    "output": "Atmospheric pressure is the pressure exerted by the air around us. Near sea level, standard atmospheric pressure is about 101.3 kPa."
+  },
+  {
+    "instruction": "Could you briefly explain weightlessness?",
+    "output": "Weightlessness is the absence of a supporting contact force felt by an observer. An astronaut in orbit is weightless while still experiencing gravity."
+  },
+  {
+    "instruction": "Could you briefly explain potential energy?",
+    "output": "Potential energy depends on configuration in a conservative interaction. Gravitational and elastic potential energies are familiar examples."
+  },
+  {
+    "instruction": "Compare density and mass briefly.",
+    "output": "Mass is the amount of inertia; density is mass per unit volume."
+  },
+  {
+    "instruction": "Could you briefly explain rigid body?",
+    "output": "A rigid body is an ideal object whose internal distances do not change. This approximation simplifies translation and rotation."
+  },
+  {
+    "instruction": "Compare conduction and convection briefly.",
+    "output": "Conduction transfers energy without bulk material flow; convection transfers it by fluid motion."
+  },
+  {
+    "instruction": "Could you briefly explain mechanical equilibrium?",
+    "output": "Mechanical equilibrium means the net force is zero. An object in equilibrium has no linear acceleration."
+  },
+  {
+    "instruction": "Write the formula for velocity under constant acceleration.",
+    "output": "v = v0 + at"
+  },
+  {
+    "instruction": "Compare kinetic energy and potential energy briefly.",
+    "output": "Kinetic energy depends on motion; potential energy depends on configuration."
+  },
+  {
+    "instruction": "Could you briefly explain work?",
+    "output": "Work is energy transferred by a force acting through displacement. For a constant force, W = F d cos(theta)."
+  },
+  {
+    "instruction": "Could you briefly explain continuity equation?",
+    "output": "The continuity equation expresses conservation of mass in fluid flow. For steady incompressible flow, A1 v1 = A2 v2."
+  },
+  {
+    "instruction": "Could you briefly explain Newton's third law?",
+    "output": "Newton's third law says forces between two interacting bodies come in equal and opposite pairs. The paired forces act on different bodies."
+  },
+  {
+    "instruction": "Could you briefly explain temperature?",
+    "output": "Temperature describes thermal state and determines the direction of spontaneous heat transfer. Heat flows spontaneously from hotter to colder bodies when they interact thermally."
+  },
+  {
+    "instruction": "Could you briefly explain reference frame?",
+    "output": "A reference frame is a coordinate system and clock used to describe motion. Position and velocity depend on the chosen reference frame."
+  },
+  {
+    "instruction": "Write the formula for conservation of mechanical energy.",
+    "output": "K_i + U_i = K_f + U_f if only conservative forces do work"
+  },
+  {
+    "instruction": "Write the formula for mass conservation in steady incompressible flow.",
+    "output": "A1 v1 = A2 v2"
+  },
+  {
+    "instruction": "Could you briefly explain wave?",
+    "output": "A wave is a disturbance that carries energy through space or a medium. Waves can propagate without transporting matter over large distances."
+  },
+  {
+    "instruction": "Could you briefly explain uniform circular motion?",
+    "output": "Uniform circular motion has constant speed along a circle. It requires inward centripetal acceleration because velocity changes direction."
+  },
+  {
+    "instruction": "Could you briefly explain zero work?",
+    "output": "A force does zero work when it is perpendicular to displacement. A centripetal force in uniform circular motion does no work."
+  },
+  {
+    "instruction": "Compare rotation and translation briefly.",
+    "output": "Translation moves an object's center of mass; rotation changes its orientation about an axis."
+  },
+  {
+    "instruction": "Could you briefly explain sound intensity?",
+    "output": "Sound intensity is average sound power passing through unit area. It is measured in watts per square meter."
+  },
+  {
+    "instruction": "Write the formula for constant-force impulse.",
+    "output": "J = F Delta t for a constant force"
+  },
+  {
+    "instruction": "Write the formula for mechanical efficiency.",
+    "output": "efficiency = useful output energy / input energy"
+  },
+  {
+    "instruction": "Write the formula for frequency and period.",
+    "output": "f = 1/T"
+  },
+  {
+    "instruction": "Write the formula for period of a small-angle pendulum.",
+    "output": "T = 2 pi sqrt(L/g)"
+  },
+  {
+    "instruction": "Could you briefly explain physics?",
+    "output": "Physics studies matter, energy, motion, forces, and how the natural world behaves. Physics uses mathematical models and experiments to describe natural phenomena."
+  },
+  {
+    "instruction": "Could you briefly explain fluid?",
+    "output": "A fluid is a substance that flows under shear stress. Liquids and gases are fluids."
+  },
+  {
+    "instruction": "Could you briefly explain equilibrium position?",
+    "output": "Equilibrium position is where net force is zero. Small displacements around stable equilibrium can cause oscillations."
+  },
+  {
+    "instruction": "Could you briefly explain hydrostatic pressure?",
+    "output": "Hydrostatic pressure is pressure in a fluid at rest. For constant density, pressure increases with depth by rho g h."
+  },
+  {
+    "instruction": "Could you briefly explain displacement?",
+    "output": "Displacement is the change in position from the initial to the final point. Displacement is a vector and does not depend on the path taken."
+  },
+  {
+    "instruction": "Could you briefly explain ideal gas law?",
+    "output": "The ideal gas law relates pressure, volume, amount of gas, and temperature. It is pV = nRT with temperature in kelvin."
+  },
+  {
+    "instruction": "Could you briefly explain Kepler's third law?",
+    "output": "Kepler's third law relates orbital period and orbit size. For bodies orbiting the same central mass, T^2 is proportional to a^3."
+  },
+  {
+    "instruction": "Could you briefly explain heat reservoir?",
+    "output": "A heat reservoir is an ideal body whose temperature stays essentially constant while exchanging heat. Large reservoirs are useful models for engines and refrigerators."
+  },
+  {
+    "instruction": "Could you briefly explain surroundings in thermodynamics?",
+    "output": "The surroundings are everything outside the chosen thermodynamic system. Heat and work can cross the system boundary."
+  },
+  {
+    "instruction": "Could you briefly explain circular motion?",
+    "output": "Circular motion is motion along a circular path. Even at constant speed, a moving object's velocity direction changes."
+  },
+  {
+    "instruction": "Could you briefly explain lever arm?",
+    "output": "The lever arm is the perpendicular distance from an axis to a force's line of action. Torque magnitude equals force times lever arm."
+  },
+  {
+    "instruction": "Could you briefly explain spring constant?",
+    "output": "A spring constant measures how stiff a linear spring is. In Hooke's law, k is measured in N/m."
+  },
+  {
+    "instruction": "Could you briefly explain floating?",
+    "output": "An object floats in equilibrium when buoyancy balances its weight. The displaced fluid must weigh as much as the object."
+  },
+  {
+    "instruction": "Could you briefly explain wavelength?",
+    "output": "Wavelength is the spatial distance between successive points with the same phase. For periodic waves, v = f lambda."
+  },
+  {
+    "instruction": "Write the formula for entropy change for a reversible isothermal heat transfer.",
+    "output": "Delta S = Q_rev/T at constant temperature"
+  },
+  {
+    "instruction": "Could you briefly explain inelastic collision?",
+    "output": "An inelastic collision conserves momentum but not necessarily kinetic energy. Some kinetic energy becomes heat, deformation, or other forms."
+  },
+  {
+    "instruction": "Write the formula for work by a gas at constant pressure.",
+    "output": "W_by = p Delta V for a quasistatic isobaric process"
+  },
+  {
+    "instruction": "Write the formula for escape speed from a spherical mass.",
+    "output": "v_esc = sqrt(2GM/r) in the ideal Newtonian model"
+  },
+  {
+    "instruction": "Could you briefly explain SI units?",
+    "output": "SI is the international system of units used in science. Its base units include the meter, kilogram, second, and kelvin."
+  },
+  {
+    "instruction": "Could you briefly explain laminar flow?",
+    "output": "Laminar flow has orderly fluid motion in smooth layers. It is common at sufficiently low Reynolds numbers."
+  },
+  {
+    "instruction": "Could you briefly explain external force?",
+    "output": "An external force acts on a system from something outside it. External forces can change the system's total momentum."
+  },
+  {
+    "instruction": "Could you briefly explain angular displacement?",
+    "output": "Angular displacement measures the change in orientation or angle. It is commonly measured in radians."
+  },
+  {
+    "instruction": "Could you briefly explain position?",
+    "output": "Position specifies where an object is relative to a reference frame. It can be represented by coordinates such as x, y, and z."
+  },
+  {
+    "instruction": "Compare force and acceleration briefly.",
+    "output": "Force is an interaction; acceleration is the change in velocity caused by net force."
+  },
+  {
+    "instruction": "Could you briefly explain center-of-mass velocity?",
+    "output": "Center-of-mass velocity equals total momentum divided by total mass. It stays constant when net external force is zero."
+  },
+  {
+    "instruction": "Could you briefly explain rolling without slipping?",
+    "output": "Rolling without slipping means the contact point is instantaneously at rest relative to the surface. For a wheel, the center speed satisfies v = omega R."
+  },
+  {
+    "instruction": "Could you briefly explain weight?",
+    "output": "Weight is the gravitational force acting on an object. Near Earth's surface, its magnitude is W = mg."
+  },
+  {
+    "instruction": "Could you briefly explain refrigerator?",
+    "output": "A refrigerator uses work to transfer heat from a colder region to a warmer region. This does not violate the second law because work is supplied."
+  },
+  {
+    "instruction": "Write the formula for Carnot efficiency.",
+    "output": "eta_C = 1 - T_c/T_h, with temperatures in kelvin"
+  },
+  {
+    "instruction": "Could you briefly explain thermodynamic cycle?",
+    "output": "A thermodynamic cycle returns a system to its initial state. Over a complete cycle, the change in internal energy is zero."
+  },
+  {
+    "instruction": "Could you briefly explain absolute zero?",
+    "output": "Absolute zero is 0 K, the lower limit of thermodynamic temperature. It corresponds to -273.15 degrees Celsius."
+  },
+  {
+    "instruction": "Compare torque and force briefly.",
+    "output": "Force changes linear momentum; torque changes angular momentum."
+  },
+  {
+    "instruction": "Could you briefly explain centrifugal force?",
+    "output": "Centrifugal force is an apparent outward force in a rotating reference frame. It is a fictitious force introduced in a non-inertial frame."
+  },
+  {
+    "instruction": "Write the formula for mass density.",
+    "output": "rho = m/V"
+  },
+  {
+    "instruction": "Could you briefly explain projectile motion?",
+    "output": "Projectile motion is motion under gravity after launch. Without air resistance, horizontal velocity is constant and vertical acceleration is downward."
+  },
+  {
+    "instruction": "Could you briefly explain rotational kinetic energy?",
+    "output": "Rotational kinetic energy is energy of motion due to rotation. For a rigid body about a fixed axis, K = (1/2)I omega^2."
+  },
+  {
+    "instruction": "Could you briefly explain simple harmonic motion?",
+    "output": "Simple harmonic motion occurs when acceleration is proportional and opposite to displacement. A mass on an ideal spring is a common example."
+  },
+  {
+    "instruction": "Could you briefly explain tangential acceleration?",
+    "output": "Tangential acceleration changes speed along a curved path. In rotational motion, its magnitude is a_t = alpha r."
+  },
+  {
+    "instruction": "Could you briefly explain power?",
+    "output": "Power is the rate of energy transfer or work done. Its SI unit is the watt, equal to one joule per second."
+  },
+  {
+    "instruction": "Could you briefly explain resonance?",
+    "output": "Resonance is a strong response when driving frequency is near a natural frequency. Damping limits the amplitude of real resonances."
+  },
+  {
+    "instruction": "Could you briefly explain Hooke's law?",
+    "output": "Hooke's law describes the restoring force of an ideal linear spring. The signed spring force is F = -kx."
+  },
+  {
+    "instruction": "Compare mass and weight briefly.",
+    "output": "Mass measures inertia and is measured in kilograms; weight is a gravitational force measured in newtons."
+  },
+  {
+    "instruction": "Compare period and frequency briefly.",
+    "output": "Period is time per cycle; frequency is cycles per second, so f = 1/T."
+  },
+  {
+    "instruction": "Write the formula for Bernoulli's equation.",
+    "output": "p + (1/2)rho v^2 + rho gh = constant along a streamline for steady ideal flow"
+  },
+  {
+    "instruction": "Write the formula for work-energy theorem.",
+    "output": "W_net = Delta K"
+  },
+  {
+    "instruction": "Could you briefly explain simple pendulum?",
+    "output": "A simple pendulum is an ideal point mass suspended by a light string. At small angles, its period is T = 2 pi sqrt(L/g)."
+  },
+  {
+    "instruction": "Could you briefly explain equation of motion?",
+    "output": "For a constant-mass particle, Newton's equation of motion is F_net = ma. It describes how the net force changes the object's velocity."
+  },
+  {
+    "instruction": "Could you briefly explain net work?",
+    "output": "Net work is the sum of work done by all forces. The work-energy theorem gives W_net = Delta K."
+  },
+  {
+    "instruction": "Write the formula for volume flow rate.",
+    "output": "Q = A v for uniform flow through a section"
+  },
+  {
+    "instruction": "Could you briefly explain buoyancy?",
+    "output": "Buoyancy is the upward force a fluid exerts on an immersed object. It comes from pressure being greater at greater depth."
+  },
+  {
+    "instruction": "Could you briefly explain relative velocity?",
+    "output": "Relative velocity is the velocity of one object measured from another frame. In classical mechanics, relative velocity is found by subtracting velocities."
+  },
+  {
+    "instruction": "Could you briefly explain constant acceleration?",
+    "output": "Constant acceleration means acceleration does not change with time. With constant acceleration, velocity changes linearly with time."
+  },
+  {
+    "instruction": "Could you briefly explain natural frequency?",
+    "output": "Natural frequency is the rate at which a system oscillates when disturbed without continuous forcing. It depends on inertia and restoring forces."
+  },
+  {
+    "instruction": "Could you briefly explain driven oscillation?",
+    "output": "Driven oscillation occurs when an external periodic force acts on an oscillator. Its response depends on forcing frequency and damping."
+  },
+  {
+    "instruction": "Could you briefly explain drag force?",
+    "output": "Drag is a resistive force from motion relative to a fluid. Its magnitude depends on speed, shape, and fluid properties."
+  },
+  {
+    "instruction": "Could you briefly explain circular orbit?",
+    "output": "A circular orbit keeps a fixed distance from the central body. Gravity supplies the centripetal acceleration in an ideal orbit."
+  },
+  {
+    "instruction": "Write the formula for instantaneous mechanical power.",
+    "output": "P = F dot v"
+  },
+  {
+    "instruction": "Compare conduction and radiation briefly.",
+    "output": "Conduction needs matter; thermal radiation can travel through a vacuum."
+  },
+  {
+    "instruction": "Compare heat and temperature briefly.",
+    "output": "Heat is energy transfer due to temperature difference; temperature describes thermal state."
+  },
+  {
+    "instruction": "Compare heat and internal energy briefly.",
+    "output": "Heat is energy in transfer; internal energy is a property of the system's state."
+  },
+  {
+    "instruction": "Could you briefly explain adiabatic process?",
+    "output": "An adiabatic process has no heat transfer across the system boundary. Its internal energy can still change through work."
+  },
+  {
+    "instruction": "Could you briefly explain thermal efficiency?",
+    "output": "Thermal efficiency is useful work output divided by heat absorbed from a hot reservoir. It is eta = W_out/Q_hot for a heat engine."
+  },
+  {
+    "instruction": "Compare convection and radiation briefly.",
+    "output": "Convection uses moving fluid; radiation uses electromagnetic waves."
+  },
+  {
+    "instruction": "Compare heat capacity and specific heat capacity briefly.",
+    "output": "Heat capacity is per entire system; specific heat capacity is per unit mass."
+  },
+  {
+    "instruction": "Compare speed and velocity briefly.",
+    "output": "Speed is a nonnegative scalar; velocity includes direction."
+  },
+  {
+    "instruction": "Could you briefly explain isolated system?",
+    "output": "An isolated system exchanges no net external influence relevant to the conservation law being studied. In collision models, negligible external impulse gives momentum conservation."
+  },
+  {
+    "instruction": "Could you briefly explain transverse wave?",
+    "output": "A transverse wave oscillates perpendicular to its direction of travel. A wave on a stretched string is often transverse."
+  },
+  {
+    "instruction": "Write the formula for Hooke's law.",
+    "output": "F = -kx for an ideal linear spring"
+  },
+  {
+    "instruction": "Could you briefly explain first law of thermodynamics?",
+    "output": "The first law expresses energy conservation: Delta U = Q - W_by, with W_by the work done by the system. Heat added can increase internal energy or become work."
+  },
+  {
+    "instruction": "Compare transverse wave and longitudinal wave briefly.",
+    "output": "Transverse oscillations are perpendicular to propagation; longitudinal oscillations are parallel."
+  },
+  {
+    "instruction": "Could you briefly explain measurement?",
+    "output": "Measurement compares a physical quantity with a chosen standard unit. A measurement needs a value and a unit, often with an uncertainty."
+  },
+  {
+    "instruction": "Write the formula for weight near Earth's surface.",
+    "output": "W = mg"
+  },
+  {
+    "instruction": "Could you briefly explain conservation of momentum?",
+    "output": "Total momentum stays constant when the net external impulse on a system is zero. Momentum is conserved in isolated collisions."
+  },
+  {
+    "instruction": "Compare static friction and kinetic friction briefly.",
+    "output": "Static friction prevents sliding; kinetic friction acts during sliding."
+  },
+  {
+    "instruction": "Could you briefly explain latent heat?",
+    "output": "Latent heat is energy absorbed or released during a phase change at constant temperature. Melting and boiling require latent heat."
+  },
+  {
+    "instruction": "Could you briefly explain range of a projectile?",
+    "output": "Range is the horizontal distance from launch to landing. It depends on launch speed, launch angle, and the landing height."
+  },
+  {
+    "instruction": "Could you briefly explain acceleration-time graph?",
+    "output": "An acceleration-time graph shows acceleration over time. The signed area under the graph gives change in velocity."
+  },
+  {
+    "instruction": "Could you briefly explain kinetic energy?",
+    "output": "Kinetic energy is energy associated with motion. For a classical particle, K = (1/2)mv^2."
+  },
+  {
+    "instruction": "Could you briefly explain Carnot engine?",
+    "output": "A Carnot engine is an ideal reversible heat engine operating between two temperatures. Its maximum efficiency is eta_C = 1 - T_c/T_h, using kelvin."
+  },
+  {
+    "instruction": "Could you briefly explain hydraulic press?",
+    "output": "A hydraulic press uses pressure transmitted through a fluid to produce force on a larger piston. Equal pressure and different piston areas allow different forces."
+  },
+  {
+    "instruction": "Could you briefly explain uniform motion?",
+    "output": "Uniform motion means constant velocity. An object in uniform motion has zero acceleration."
+  },
+  {
+    "instruction": "Write the formula for mechanical work by a constant force.",
+    "output": "W = F d cos(theta)"
+  },
+  {
+    "instruction": "Could you briefly explain speed?",
+    "output": "Speed is the magnitude of velocity. Speed is a nonnegative scalar measured in meters per second."
+  },
+  {
+    "instruction": "Could you briefly explain Archimedes' principle?",
+    "output": "Archimedes' principle says the buoyant force equals the weight of displaced fluid. It explains why some objects float."
+  },
+  {
+    "instruction": "Could you briefly explain free fall?",
+    "output": "Free fall is motion under gravity alone. Near Earth's surface, ideal free fall has downward acceleration about 9.81 m/s^2."
+  },
+  {
+    "instruction": "Compare heat engine and refrigerator briefly.",
+    "output": "A heat engine turns some absorbed heat into work; a refrigerator uses work to move heat from cold to hot."
+  },
+  {
+    "instruction": "Write the formula for oscillation of a spring-mass system.",
+    "output": "omega = sqrt(k/m)"
+  },
+  {
+    "instruction": "Write the formula for angular momentum of a fixed-axis rigid body.",
+    "output": "L = I omega about its fixed principal axis"
+  },
+  {
+    "instruction": "Could you briefly explain momentum?",
+    "output": "Linear momentum is mass times velocity in classical mechanics. Momentum is a vector: p = mv."
+  },
+  {
+    "instruction": "Could you briefly explain force?",
+    "output": "A force is an interaction that can change an object's motion. Force is a vector measured in newtons."
+  },
+  {
+    "instruction": "Could you briefly explain inertia?",
+    "output": "Inertia is an object's resistance to changes in velocity. Mass measures inertia in classical mechanics."
+  },
+  {
+    "instruction": "Write the formula for ideal gas pressure in particle form.",
+    "output": "pV = N k_B T"
+  },
+  {
+    "instruction": "Write the formula for buoyant force.",
+    "output": "F_b = rho_fluid g V_displaced"
+  },
+  {
+    "instruction": "Write the formula for orbital period for a circular orbit.",
+    "output": "T = 2 pi sqrt(r^3/(GM))"
+  },
+  {
+    "instruction": "Could you briefly explain restoring force?",
+    "output": "A restoring force acts toward a stable equilibrium position. An ideal spring exerts restoring force F = -kx."
+  },
+  {
+    "instruction": "Write the formula for elastic potential energy.",
+    "output": "U = (1/2)kx^2 for an ideal spring"
+  },
+  {
+    "instruction": "Compare pressure and force briefly.",
+    "output": "Pressure is force per unit area; force is an interaction measured in newtons."
+  },
+  {
+    "instruction": "Write the formula for instantaneous acceleration.",
+    "output": "a = dv/dt = d^2x/dt^2 in one dimension"
+  },
+  {
+    "instruction": "Write the formula for orbital speed for a circular orbit.",
+    "output": "v = sqrt(GM/r) for a spherical central mass"
+  },
+  {
+    "instruction": "Could you briefly explain velocity-time graph?",
+    "output": "A velocity-time graph shows velocity as a function of time. Its slope gives acceleration; signed area gives displacement."
+  },
+  {
+    "instruction": "Could you briefly explain pressure?",
+    "output": "Pressure is normal force per unit area. Its SI unit is the pascal: 1 Pa = 1 N/m^2."
+  },
+  {
+    "instruction": "Could you briefly explain internal energy?",
+    "output": "Internal energy is the microscopic kinetic and potential energy within a system. The first law relates its change to heat and work."
+  },
+  {
+    "instruction": "Compare moment of inertia and mass briefly.",
+    "output": "Mass measures resistance to linear acceleration; moment of inertia measures resistance to angular acceleration about an axis."
+  },
+  {
+    "instruction": "Could you briefly explain damping?",
+    "output": "Damping is the gradual loss of oscillation energy due to resistive effects. A damped oscillator typically decreases in amplitude over time."
+  },
+  {
+    "instruction": "Could you briefly explain work-energy theorem?",
+    "output": "The work-energy theorem says net work equals the change in kinetic energy. It can be written W_net = K_final - K_initial."
+  },
+  {
+    "instruction": "Write the formula for sinusoidal wave speed.",
+    "output": "v = f lambda"
+  },
+  {
+    "instruction": "Could you briefly explain radian?",
+    "output": "A radian is an angular unit defined by arc length divided by radius. A full turn equals 2 pi radians."
+  },
+  {
+    "instruction": "Write the formula for Newton's second law.",
+    "output": "F_net = ma for constant mass"
+  },
+  {
+    "instruction": "Could you briefly explain wave speed?",
+    "output": "Wave speed is the speed at which a wave pattern or disturbance propagates. For a sinusoidal wave, v = f lambda."
+  },
+  {
+    "instruction": "Could you briefly explain dynamic equilibrium?",
+    "output": "Dynamic equilibrium can mean motion at constant velocity with zero net force. Balanced forces do not necessarily imply rest."
+  },
+  {
+    "instruction": "Could you briefly explain rotational inertia?",
+    "output": "Rotational inertia is another name for moment of inertia. Mass farther from the axis generally increases rotational inertia."
+  },
+  {
+    "instruction": "Could you briefly explain frequency?",
+    "output": "Frequency is the number of cycles per unit time. Its SI unit is hertz, meaning cycles per second."
+  },
+  {
+    "instruction": "Could you briefly explain zeroth law of thermodynamics?",
+    "output": "If two systems are each in thermal equilibrium with a third, they are in equilibrium with each other. This law makes temperature a consistent measurable quantity."
+  },
+  {
+    "instruction": "Could you briefly explain thermodynamic system?",
+    "output": "A thermodynamic system is the chosen matter or region being studied. Everything outside it is called the surroundings."
+  },
+  {
+    "instruction": "Could you briefly explain conservation of energy?",
+    "output": "Energy cannot be created or destroyed in an isolated system. It can change form or transfer between parts of the system."
+  },
+  {
+    "instruction": "Write the formula for Newton's law of gravitation.",
+    "output": "F = G m1 m2/r^2 for point masses separated by r"
+  },
+  {
+    "instruction": "Write the formula for vertical free fall from rest.",
+    "output": "h = (1/2)gt^2 when downward is positive and air drag is neglected"
+  },
+  {
+    "instruction": "Compare centripetal force and centrifugal force briefly.",
+    "output": "Centripetal force is a real net inward force; centrifugal force is an apparent force in a rotating frame."
+  },
+  {
+    "instruction": "Could you briefly explain torque?",
+    "output": "Torque measures the tendency of a force to rotate a body about an axis. Its magnitude is tau = rF sin(theta)."
+  },
+  {
+    "instruction": "Could you briefly explain incompressible fluid?",
+    "output": "An incompressible fluid has approximately constant density during flow. Water can often be treated as incompressible in simple problems."
+  },
+  {
+    "instruction": "Could you briefly explain thermal energy?",
+    "output": "Thermal energy is commonly used for microscopic energy associated with temperature. In thermodynamics, internal energy is the more precise state quantity."
+  },
+  {
+    "instruction": "Write the formula for net torque for fixed-axis rotation.",
+    "output": "tau_net = I alpha for constant moment of inertia"
+  },
+  {
+    "instruction": "Could you briefly explain temperature gradient?",
+    "output": "A temperature gradient describes how temperature changes across space. Heat conduction generally carries energy down the temperature gradient."
+  },
+  {
+    "instruction": "Could you briefly explain flow rate?",
+    "output": "Volume flow rate is the volume of fluid crossing a section per unit time. For uniform flow, Q = A v."
+  },
+  {
+    "instruction": "Write the formula for centripetal force.",
+    "output": "F_c = mv^2/r"
+  },
+  {
+    "instruction": "Could you briefly explain mechanical efficiency?",
+    "output": "Mechanical efficiency is useful output energy divided by input energy. Real machines have efficiency below 100 percent because of losses."
+  },
+  {
+    "instruction": "Could you briefly explain normal force?",
+    "output": "The normal force is a contact force perpendicular to a surface. It need not always equal an object's weight."
+  },
+  {
+    "instruction": "Could you briefly explain static friction?",
+    "output": "Static friction prevents two contacting surfaces from sliding. Its magnitude adjusts up to a maximum set by the contact conditions."
+  },
+  {
+    "instruction": "Write the formula for rolling without slipping.",
+    "output": "v_center = omega R"
+  },
+  {
+    "instruction": "Could you briefly explain horizontal motion of a projectile?",
+    "output": "Without air resistance, a projectile's horizontal velocity stays constant. Gravity acts vertically in the ideal projectile model."
+  },
+  {
+    "instruction": "Compare energy and power briefly.",
+    "output": "Energy is a quantity that can be transferred or transformed; power is its rate of transfer."
+  },
+  {
+    "instruction": "Could you briefly explain mole?",
+    "output": "A mole is an amount of substance containing Avogadro's number of entities. One mole contains approximately 6.022 x 10^23 particles."
+  },
+  {
+    "instruction": "Write the formula for kinetic energy.",
+    "output": "K = (1/2)mv^2 for nonrelativistic motion"
+  },
+  {
+    "instruction": "Could you briefly explain rest?",
+    "output": "An object is at rest when its position is constant in a chosen frame. Rest is relative to the observer's reference frame."
+  },
+  {
+    "instruction": "Could you briefly explain nonconservative force?",
+    "output": "A nonconservative force has work that generally depends on the path. Kinetic friction is a standard example."
+  },
+  {
+    "instruction": "Compare reversible process and irreversible process briefly.",
+    "output": "A reversible process can be undone without net changes elsewhere; an irreversible process cannot."
+  },
+  {
+    "instruction": "Could you briefly explain molar heat capacity?",
+    "output": "Molar heat capacity is heat capacity per mole. Its unit is J/(mol K)."
+  },
+  {
+    "instruction": "Write the formula for rotational kinetic energy.",
+    "output": "K_rot = (1/2)I omega^2"
+  },
+  {
+    "instruction": "Could you briefly explain kelvin?",
+    "output": "The kelvin is the SI unit of absolute temperature. Temperatures in kelvin use an absolute zero at 0 K."
+  },
+  {
+    "instruction": "Could you briefly explain Kepler's first law?",
+    "output": "Kepler's first law says planets follow elliptical orbits with the Sun at one focus. Circular orbits are a special case of ellipses."
+  },
+  {
+    "instruction": "Could you briefly explain gravitational force?",
+    "output": "Gravitational force is the attractive interaction between masses. For two point masses, its magnitude is G m1 m2/r^2."
+  },
+  {
+    "instruction": "Could you briefly explain mechanical energy?",
+    "output": "Mechanical energy is the sum of kinetic and potential energy. It remains constant if only conservative forces do work."
+  },
+  {
+    "instruction": "Could you briefly explain gravitational potential?",
+    "output": "Gravitational potential is potential energy per unit mass. For a point mass, it is -GM/r when zero is at infinity."
+  },
+  {
+    "instruction": "Write the formula for vertical projectile motion.",
+    "output": "y = y0 + v0y t - (1/2)gt^2 when upward is positive"
+  },
+  {
+    "instruction": "Could you briefly explain heat engine?",
+    "output": "A heat engine takes heat from a hot source, produces work, and releases some heat to a cold sink. No cyclic engine can convert all absorbed heat into work."
+  },
+  {
+    "instruction": "Write the formula for torque magnitude.",
+    "output": "tau = rF sin(theta)"
+  },
+  {
+    "instruction": "Write the formula for thermal expansion of a rod.",
+    "output": "Delta L = alpha L0 Delta T for small temperature changes"
+  },
+  {
+    "instruction": "Compare thermal equilibrium and mechanical equilibrium briefly.",
+    "output": "Thermal equilibrium has no net heat flow; mechanical equilibrium has zero net force."
+  },
+  {
+    "instruction": "Write the formula for Kepler's third law around one central mass.",
+    "output": "T^2 is proportional to a^3"
+  },
+  {
+    "instruction": "Compare work and power briefly.",
+    "output": "Work is energy transferred by force through displacement; power is work done per unit time."
+  },
+  {
+    "instruction": "Compare velocity and acceleration briefly.",
+    "output": "Velocity describes how position changes; acceleration describes how velocity changes."
+  },
+  {
+    "instruction": "Could you briefly explain thermal radiation?",
+    "output": "Thermal radiation transfers energy through electromagnetic waves. Unlike conduction and convection, it can travel through a vacuum."
+  },
+  {
+    "instruction": "Write the formula for pressure increase in a stationary liquid.",
+    "output": "Delta p = rho g h for constant density"
+  },
+  {
+    "instruction": "Write the formula for heat conduction through a slab.",
+    "output": "P = k A Delta T/L for steady one-dimensional conduction"
+  },
+  {
+    "instruction": "Could you briefly explain thermal contact?",
+    "output": "Two systems are in thermal contact when they can exchange energy as heat. Heat flows spontaneously toward the colder body until equilibrium is reached."
+  },
+  {
+    "instruction": "Could you briefly explain model in physics?",
+    "output": "A physical model is a simplified description of a real system. Models have assumptions and are valid only in suitable conditions."
+  },
+  {
+    "instruction": "Could you briefly explain tangential speed?",
+    "output": "Tangential speed is the linear speed along a circular path. For circular motion, v = omega r."
+  },
+  {
+    "instruction": "Compare laminar flow and turbulent flow briefly.",
+    "output": "Laminar flow is orderly; turbulent flow has irregular velocity fluctuations."
+  },
+  {
+    "instruction": "Could you briefly explain instantaneous velocity?",
+    "output": "Instantaneous velocity is the velocity at a particular moment. In one dimension it is the derivative of position with respect to time."
+  },
+  {
+    "instruction": "Write the formula for moment of inertia of a uniform solid disk.",
+    "output": "I = (1/2)MR^2 about its symmetry axis"
+  },
+  {
+    "instruction": "Could you briefly explain perfectly inelastic collision?",
+    "output": "In a perfectly inelastic collision, the objects stick together afterward. Momentum is conserved if external impulse is negligible."
+  },
+  {
+    "instruction": "Could you briefly explain thermal equilibrium?",
+    "output": "Two bodies are in thermal equilibrium if no net heat flows between them when in thermal contact. At equilibrium they have the same temperature in ordinary thermodynamics."
+  },
+  {
+    "instruction": "Could you briefly explain entropy?",
+    "output": "Entropy is a thermodynamic state variable related to energy dispersal and the number of accessible microscopic states. In an isolated system, total entropy cannot decrease."
+  },
+  {
+    "instruction": "Could you briefly explain angular form of Newton's second law?",
+    "output": "Net torque equals the rate of change of angular momentum. For fixed-axis rotation with constant inertia, tau_net = I alpha."
+  },
+  {
+    "instruction": "Compare isobaric process and isochoric process briefly.",
+    "output": "Isobaric means constant pressure; isochoric means constant volume."
+  },
+  {
+    "instruction": "Could you briefly explain Carnot efficiency?",
+    "output": "Carnot efficiency is the maximum efficiency of a reversible heat engine between two temperatures. It is 1 - T_c/T_h, with both temperatures in kelvin."
+  },
+  {
+    "instruction": "Write the formula for heat at constant specific heat.",
+    "output": "Q = mc Delta T if no phase change occurs"
+  },
+  {
+    "instruction": "Could you briefly explain melting?",
+    "output": "Melting is the change from solid to liquid. At a fixed melting temperature, energy can change the phase without raising temperature."
+  },
+  {
+    "instruction": "Could you briefly explain thermodynamics?",
+    "output": "Thermodynamics studies heat, work, temperature, and changes in energy. Its laws explain thermal equilibrium and which energy transfers are possible."
+  },
+  {
+    "instruction": "Could you briefly explain tension?",
+    "output": "Tension is a pulling force transmitted through a rope, string, or cable. In an ideal massless rope, tension pulls along the rope."
+  },
+  {
+    "instruction": "Could you briefly explain oscillation?",
+    "output": "An oscillation is repeated motion around an equilibrium state. Pendulums and springs can show oscillatory motion."
+  },
+  {
+    "instruction": "Could you briefly explain classical mechanics?",
+    "output": "Classical mechanics describes motion and forces at ordinary speeds and macroscopic scales. Newton's laws are central to classical mechanics."
+  },
+  {
+    "instruction": "Could you briefly explain Newton's first law?",
+    "output": "Newton's first law says that without net external force an object stays at rest or moves at constant velocity. It is also called the law of inertia."
+  },
+  {
+    "instruction": "Compare orbital speed and escape speed briefly.",
+    "output": "Orbital speed sustains an ideal circular orbit; escape speed is the threshold for unbound motion without further thrust."
+  },
+  {
+    "instruction": "Could you briefly explain mechanics?",
+    "output": "Mechanics is the branch of physics that studies motion, forces, and equilibrium. Mechanics includes kinematics, dynamics, and energy methods."
+  },
+  {
+    "instruction": "Could you briefly explain second law of thermodynamics?",
+    "output": "The second law states that the total entropy of an isolated system cannot decrease. It explains why heat spontaneously flows from hot to cold."
+  },
+  {
+    "instruction": "Could you briefly explain Boltzmann constant?",
+    "output": "The Boltzmann constant relates temperature to energy on a particle scale. Its value is approximately 1.38 x 10^-23 J/K."
+  },
+  {
+    "instruction": "Write the formula for kinetic friction force.",
+    "output": "f_k = mu_k N in the simple sliding-friction model"
+  },
+  {
+    "instruction": "Could you briefly explain gravitational field?",
+    "output": "A gravitational field describes the force per unit mass at a position. It points in the direction a test mass would accelerate."
+  },
+  {
+    "instruction": "Could you briefly explain escape speed?",
+    "output": "Escape speed is the minimum launch speed needed to reach infinity with zero final speed in an ideal gravitational model. For a spherical body, v_esc = sqrt(2GM/r)."
+  },
+  {
+    "instruction": "Compare isothermal process and adiabatic process briefly.",
+    "output": "Isothermal means constant temperature; adiabatic means no heat crosses the boundary."
+  },
+  {
+    "instruction": "Write the formula for internal energy of a monatomic ideal gas.",
+    "output": "U = (3/2)nRT in the classical ideal-gas model"
+  },
+  {
+    "instruction": "Could you briefly explain energy?",
+    "output": "Energy is a conserved physical quantity that can change form or move between systems. Common forms include kinetic, potential, and internal energy."
+  },
+  {
+    "instruction": "Could you briefly explain sound?",
+    "output": "Sound is a mechanical wave produced by pressure disturbances. Sound needs a medium and cannot travel through a vacuum."
+  },
+  {
+    "instruction": "Could you briefly explain impulse-momentum theorem?",
+    "output": "The impulse-momentum theorem states that impulse equals change in momentum. It is written J = Delta p."
+  },
+  {
+    "instruction": "Could you briefly explain Pascal's principle?",
+    "output": "Pascal's principle says an applied pressure change in a confined fluid is transmitted through it. Hydraulic systems use this principle to multiply force."
+  },
+  {
+    "instruction": "Could you briefly explain impulse?",
+    "output": "Impulse is the time integral of force. Impulse equals the change in momentum, J = Delta p."
+  },
+  {
+    "instruction": "Compare elastic collision and inelastic collision briefly.",
+    "output": "An elastic collision conserves kinetic energy and momentum; an inelastic collision generally does not conserve kinetic energy."
+  },
+  {
+    "instruction": "Could you briefly explain standing wave?",
+    "output": "A standing wave has fixed nodes and antinodes. It results from interference of waves traveling in opposite directions."
+  },
+  {
+    "instruction": "Could you briefly explain isothermal process?",
+    "output": "An isothermal process occurs at constant temperature. For an ideal gas, internal energy is constant during an isothermal change."
+  },
+  {
+    "instruction": "Could you briefly explain specific heat capacity?",
+    "output": "Specific heat capacity is heat capacity per unit mass. For constant specific heat with no phase change, Q = mc Delta T."
+  },
+  {
+    "instruction": "Write the formula for ideal gas law.",
+    "output": "pV = nRT with T in kelvin"
+  },
+  {
+    "instruction": "Could you briefly explain elastic potential energy?",
+    "output": "An ideal spring stores elastic potential energy when stretched or compressed. For displacement x, U = (1/2)kx^2."
+  },
+  {
+    "instruction": "Could you briefly explain noncontact force?",
+    "output": "A noncontact force acts without direct surface contact. Gravity is a familiar example."
+  },
+  {
+    "instruction": "Write the formula for average power.",
+    "output": "P_avg = W / Delta t"
+  },
+  {
+    "instruction": "Could you briefly explain centripetal acceleration?",
+    "output": "Centripetal acceleration points toward the center of a circular path. Its magnitude is a_c = v^2/r for circular motion."
+  },
+  {
+    "instruction": "Could you briefly explain rotational motion?",
+    "output": "Rotational motion is motion about an axis. Angles, angular velocities, and torques describe it."
+  },
+  {
+    "instruction": "Write the formula for circular-motion angular speed.",
+    "output": "omega = v/r"
+  },
+  {
+    "instruction": "Write the formula for centripetal acceleration.",
+    "output": "a_c = v^2/r = omega^2 r"
+  },
+  {
+    "instruction": "Could you briefly explain inertial reference frame?",
+    "output": "An inertial frame is one where a free particle moves at constant velocity. Newton's laws take their usual form in inertial frames."
+  },
+  {
+    "instruction": "Compare angular velocity and linear velocity briefly.",
+    "output": "Angular velocity measures rotation rate; linear velocity measures position change per time."
+  },
+  {
+    "instruction": "Write the formula for momentum.",
+    "output": "p = mv in classical mechanics"
+  },
+  {
+    "instruction": "Could you briefly explain two-dimensional motion?",
+    "output": "Two-dimensional motion takes place in a plane. Its horizontal and vertical components can be analyzed separately."
+  },
+  {
+    "instruction": "Could you briefly explain turbulent flow?",
+    "output": "Turbulent flow has irregular fluctuating fluid motion. It often occurs at high Reynolds numbers."
+  },
+  {
+    "instruction": "Could you briefly explain heat?",
+    "output": "Heat is energy transferred because of a temperature difference. Heat is a process of energy transfer, not energy stored inside a body."
+  },
+  {
+    "instruction": "Could you briefly explain boiling?",
+    "output": "Boiling is vaporization occurring throughout a liquid when its vapor pressure matches external pressure. It differs from surface evaporation."
+  },
+  {
+    "instruction": "Could you briefly explain angular acceleration?",
+    "output": "Angular acceleration is the rate of change of angular velocity. It is measured in radians per second squared."
+  },
+  {
+    "instruction": "Could you briefly explain angular frequency?",
+    "output": "Angular frequency measures oscillation phase change per second. It is omega = 2 pi f and is measured in rad/s."
+  },
+  {
+    "instruction": "Could you briefly explain contact force?",
+    "output": "A contact force arises when bodies interact through physical contact. Examples include normal force, friction, and tension."
+  },
+  {
+    "instruction": "Write the formula for instantaneous velocity.",
+    "output": "v = dx/dt in one dimension"
+  },
+  {
+    "instruction": "Could you briefly explain gas pressure?",
+    "output": "Gas pressure is force per unit area exerted on container walls. In kinetic theory, it arises from molecular impacts."
+  },
+  {
+    "instruction": "Could you briefly explain mechanical power?",
+    "output": "Mechanical power is the rate at which mechanical work is performed. Instantaneous power is P = F dot v."
+  },
+  {
+    "instruction": "Could you briefly explain collision?",
+    "output": "A collision is a short interaction during which bodies exert large forces on each other. Total momentum is conserved if external impulse is negligible."
+  },
+  {
+    "instruction": "Write the formula for angular displacement in radians.",
+    "output": "theta = arc length / radius"
+  },
+  {
+    "instruction": "Write the formula for position under constant acceleration.",
+    "output": "x = x0 + v0 t + (1/2)at^2"
+  },
+  {
+    "instruction": "Could you briefly explain phase change?",
+    "output": "A phase change is a transition between states such as solid, liquid, and gas. Energy may be transferred without changing temperature during a phase transition."
+  },
+  {
+    "instruction": "Could you briefly explain state variable?",
+    "output": "A state variable depends only on the thermodynamic state, not the path taken. Pressure, volume, temperature, and internal energy are state variables."
+  },
+  {
+    "instruction": "Write the formula for work by a gas in a reversible isothermal ideal-gas process.",
+    "output": "W_by = nRT ln(V_f/V_i)"
+  },
+  {
+    "instruction": "Write the formula for average acceleration.",
+    "output": "a_avg = Delta v / Delta t"
+  },
+  {
+    "instruction": "Could you briefly explain angular velocity?",
+    "output": "Angular velocity is the rate of change of angular position. Its SI unit is radians per second."
+  },
+  {
+    "instruction": "Could you briefly explain rotational equilibrium?",
+    "output": "Rotational equilibrium means net torque is zero. Without net torque, angular momentum does not change."
+  },
+  {
+    "instruction": "Compare traveling wave and standing wave briefly.",
+    "output": "A traveling wave propagates; a standing wave has fixed nodes and antinodes."
+  },
+  {
+    "instruction": "Compare Newton's second law and Newton's third law briefly.",
+    "output": "The second law describes a body's response to net force; the third describes equal and opposite forces on interacting bodies."
+  },
+  {
+    "instruction": "Could you briefly explain angular momentum?",
+    "output": "Angular momentum describes rotational motion. For a rigid body rotating about a principal fixed axis, L = I omega."
+  },
+  {
+    "instruction": "Could you briefly explain thermal conductivity?",
+    "output": "Thermal conductivity measures how well a material conducts heat. A larger conductivity generally means more heat flow for the same temperature gradient."
+  },
+  {
+    "instruction": "Could you briefly explain centripetal force?",
+    "output": "Centripetal force is the net inward force required for circular motion. It is not a separate kind of force; F_c = mv^2/r."
+  },
+  {
+    "instruction": "Could you briefly explain Doppler effect?",
+    "output": "The Doppler effect is a change in observed frequency due to relative motion of source and observer. Approaching sources usually produce higher observed sound frequency."
+  },
+  {
+    "instruction": "Write the formula for horizontal projectile motion.",
+    "output": "x = x0 + v0x t without air drag"
+  },
+  {
+    "instruction": "Could you briefly explain static equilibrium?",
+    "output": "Static equilibrium means a body remains at rest with balanced forces and torques. For a rigid body, both net force and net torque vanish."
+  },
+  {
+    "instruction": "Compare normal force and weight briefly.",
+    "output": "Normal force is a surface-contact force; weight is the force of gravity."
+  },
+  {
+    "instruction": "Could you briefly explain force components?",
+    "output": "Force components are projections of a force along chosen axes. Vector components let Newton's laws be applied separately by direction."
+  },
+  {
+    "instruction": "Write the formula for uniform motion.",
+    "output": "x = x0 + vt for constant velocity"
+  },
+  {
+    "instruction": "Could you briefly explain recoil?",
+    "output": "Recoil is motion opposite to the direction of expelled or launched momentum. It follows from conservation of total momentum."
+  },
+  {
+    "instruction": "Could you briefly explain amplitude?",
+    "output": "Amplitude is the maximum displacement from equilibrium in an oscillation. For a sinusoidal wave, it is the peak displacement."
+  },
+  {
+    "instruction": "Could you briefly explain projectile trajectory?",
+    "output": "Without air resistance, a projectile launched near Earth follows a parabola. Constant horizontal velocity and constant downward acceleration produce the curve."
+  },
+  {
+    "instruction": "Write the formula for mechanical energy.",
+    "output": "E_mech = K + U"
+  },
+  {
+    "instruction": "Could you briefly explain period?",
+    "output": "Period is the time needed to complete one cycle. The period T and frequency f satisfy T = 1/f."
+  },
+  {
+    "instruction": "Could you briefly explain time interval?",
+    "output": "A time interval is the duration between two events. It is the final time minus the initial time."
+  },
+  {
+    "instruction": "Could you briefly explain path independence?",
+    "output": "Path independence means a quantity depends only on initial and final states. Work by a conservative force is path-independent."
+  },
+  {
+    "instruction": "Could you briefly explain Bernoulli's principle?",
+    "output": "Bernoulli's principle relates pressure, speed, and height along steady ideal-fluid flow. Along a streamline, p + (1/2)rho v^2 + rho gh is constant under its assumptions."
+  },
+  {
+    "instruction": "Could you briefly explain moment of inertia?",
+    "output": "Moment of inertia measures resistance to angular acceleration about an axis. It depends on mass and how that mass is distributed."
+  },
+  {
+    "instruction": "Could you briefly explain isobaric process?",
+    "output": "An isobaric process occurs at constant pressure. For a quasistatic process with constant pressure, W_by = p Delta V."
+  },
+  {
+    "instruction": "Compare distance and displacement briefly.",
+    "output": "Distance is total path length; displacement is the change in position."
+  },
+  {
+    "instruction": "Compare rest and uniform motion briefly.",
+    "output": "Rest means constant position in a frame; uniform motion means constant velocity, which can be nonzero."
+  },
+  {
+    "instruction": "Could you briefly explain spring oscillator?",
+    "output": "A spring oscillator is a mass moving under a spring's restoring force. For an ideal spring, omega = sqrt(k/m)."
+  },
+  {
+    "instruction": "Could you briefly explain mass?",
+    "output": "Mass measures an object's inertia. Its SI unit is the kilogram, and it is not the same as weight."
+  },
+  {
+    "instruction": "Could you briefly explain elastic collision?",
+    "output": "An elastic collision conserves both total momentum and kinetic energy. Ideal elastic collisions do not lose total kinetic energy."
+  },
+  {
+    "instruction": "Could you briefly explain Newton's laws of motion?",
+    "output": "Newton's three laws describe inertia, the effect of net force, and action-reaction pairs. Together they provide the foundation of introductory dynamics."
+  },
+  {
+    "instruction": "Could you briefly explain coefficient of friction?",
+    "output": "The coefficient of friction describes the ratio of friction force to normal force in a simple model. It is dimensionless and depends on the surfaces involved."
+  },
+  {
+    "instruction": "Write the formula for impulse.",
+    "output": "J = Delta p = integral(F dt)"
+  },
+  {
+    "instruction": "Could you briefly explain ideal fluid?",
+    "output": "An ideal fluid is a model with zero viscosity, often taken as incompressible. It simplifies fluid motion but does not describe all real flows."
+  },
+  {
+    "instruction": "Write the formula for angular acceleration.",
+    "output": "alpha = Delta omega / Delta t for average angular acceleration"
+  },
+  {
+    "instruction": "Could you briefly explain orbital speed?",
+    "output": "Orbital speed is the speed of an orbiting body. For an ideal circular orbit around mass M, v = sqrt(GM/r)."
+  },
+  {
+    "instruction": "Could you briefly explain gravitational field strength?",
+    "output": "Gravitational field strength is force per unit mass. Near Earth, its magnitude is about 9.81 N/kg."
+  },
+  {
+    "instruction": "Could you briefly explain heat convection?",
+    "output": "Convection transfers heat through the bulk motion of a fluid. Warm rising air is a familiar example."
+  },
+  {
+    "instruction": "Could you briefly explain kinetic friction?",
+    "output": "Kinetic friction opposes relative sliding between surfaces. A common model is f_k = mu_k N."
+  },
+  {
+    "instruction": "Compare amplitude and frequency briefly.",
+    "output": "Amplitude measures maximum displacement; frequency counts cycles per second."
+  },
+  {
+    "instruction": "Could you briefly explain trajectory?",
+    "output": "A trajectory is the path followed by a moving object. A trajectory describes how an object's position changes."
+  },
+  {
+    "instruction": "Could you briefly explain isochoric process?",
+    "output": "An isochoric process takes place at constant volume. Boundary work p dV is zero when the volume does not change."
+  },
+  {
+    "instruction": "Could you briefly explain physical quantity?",
+    "output": "A physical quantity is a measurable property expressed by a number and a unit. Examples include mass, time, temperature, and speed."
+  },
+  {
+    "instruction": "Write the formula for root-mean-square molecular speed of an ideal gas.",
+    "output": "v_rms = sqrt(3RT/M) with molar mass M in kg/mol"
+  },
+  {
+    "instruction": "Could you briefly explain vertical motion of a projectile?",
+    "output": "A projectile's vertical velocity changes because of gravity. Near Earth, its vertical acceleration is approximately -g when upward is positive."
+  },
+  {
+    "instruction": "Could you briefly explain distance?",
+    "output": "Distance is the total length of the path traveled. Distance is a nonnegative scalar and differs from displacement."
+  },
+  {
+    "instruction": "Could you briefly explain gravity?",
+    "output": "Gravity is the attraction between masses described by Newton's law in classical physics. Gravity pulls objects toward Earth and keeps satellites in orbit."
+  },
+  {
+    "instruction": "Could you briefly explain irreversible process?",
+    "output": "An irreversible process produces entropy and cannot be fully undone without changes to surroundings. Friction and heat flow across a finite temperature difference are examples."
+  },
+  {
+    "instruction": "Could you briefly explain small-angle approximation?",
+    "output": "The small-angle approximation uses sin(theta) approximately theta when theta is in radians and small. It simplifies the pendulum equation into simple harmonic motion."
+  },
+  {
+    "instruction": "Could you briefly explain Newton's second law?",
+    "output": "Newton's second law states that net force equals mass times acceleration: F_net = ma for constant mass. Net force changes velocity; a larger net force gives a larger acceleration at fixed mass."
+  },
+  {
+    "instruction": "Could you briefly explain Kepler's second law?",
+    "output": "Kepler's second law says the line from a planet to the Sun sweeps equal areas in equal times. A planet moves faster when closer to the Sun."
+  },
+  {
+    "instruction": "Could you briefly explain net force?",
+    "output": "Net force is the vector sum of all forces acting on an object. A nonzero net force produces acceleration for constant mass."
+  },
+  {
+    "instruction": "Could you briefly explain resultant force?",
+    "output": "Resultant force means the same as net force: the vector sum of forces on one object. For constant mass, the resultant force equals m times acceleration."
+  },
+  {
+    "instruction": "Could you briefly explain gravitational potential energy?",
+    "output": "Near Earth's surface, gravitational potential energy can be written U = mgh. Only differences in potential energy affect the motion."
+  },
+  {
+    "instruction": "Could you briefly explain orbital period?",
+    "output": "Orbital period is the time for one complete orbit. It depends on orbit size and central mass."
+  },
+  {
+    "instruction": "Write the formula for pressure.",
+    "output": "p = F_perpendicular/A for uniform normal force"
+  },
+  {
+    "instruction": "Compare mechanical energy and internal energy briefly.",
+    "output": "Mechanical energy tracks bulk kinetic and potential energy; internal energy describes microscopic energy within a system."
+  },
+  {
+    "instruction": "Write the formula for motion without time under constant acceleration.",
+    "output": "v^2 = v0^2 + 2a(x - x0)"
+  },
+  {
+    "instruction": "Could you briefly explain ideal gas?",
+    "output": "An ideal gas is a simplified model of particles with negligible interactions except collisions. It obeys pV = nRT."
+  },
+  {
+    "instruction": "Could you briefly explain newton?",
+    "output": "One newton is the force needed to accelerate 1 kg by 1 m/s^2. In SI units, 1 N = 1 kg m/s^2."
+  },
+  {
+    "instruction": "Compare ideal gas and real gas briefly.",
+    "output": "An ideal gas neglects intermolecular interactions; real gases can depart from pV = nRT."
+  },
+  {
+    "instruction": "Could you briefly explain energy dissipation?",
+    "output": "Energy dissipation converts organized mechanical energy into less recoverable forms. Friction often transforms mechanical energy into internal energy."
+  },
+  {
+    "instruction": "Write the formula for angular velocity.",
+    "output": "omega = Delta theta / Delta t for average angular velocity"
+  },
+  {
+    "instruction": "Could you briefly explain acceleration?",
+    "output": "Acceleration is the rate of change of velocity with time. Acceleration can change speed, direction, or both."
+  },
+  {
+    "instruction": "Could you briefly explain Newton's law of gravitation?",
+    "output": "Newton's law of gravitation says two masses attract with force proportional to their masses and inversely proportional to distance squared. Its magnitude is F = G m1 m2/r^2."
+  },
+  {
+    "instruction": "Could you briefly explain conservation of angular momentum?",
+    "output": "Angular momentum stays constant if net external torque is zero. A skater spins faster when pulling mass closer to the axis."
+  },
+  {
+    "instruction": "Could you briefly explain gravity near Earth's surface?",
+    "output": "Near Earth's surface, gravity gives freely falling bodies an acceleration of about 9.81 m/s^2 downward. This approximation ignores air resistance and changes in altitude."
+  },
+  {
+    "instruction": "Could you briefly explain kinematics?",
+    "output": "Kinematics describes motion without analyzing its causes. It studies position, velocity, and acceleration as functions of time."
+  },
+  {
+    "instruction": "Could you briefly explain orbit?",
+    "output": "An orbit is the trajectory of an object moving under gravity. A satellite can continuously fall around Earth without hitting it."
+  },
+  {
+    "instruction": "Could you briefly explain velocity?",
+    "output": "Velocity is the rate of change of position with time. Velocity includes direction; its SI unit is m/s."
+  },
+  {
+    "instruction": "Could you briefly explain dynamics?",
+    "output": "Dynamics studies motion together with the forces that cause it. Newton's laws connect net force to acceleration."
+  },
+  {
+    "instruction": "Compare conservative force and nonconservative force briefly.",
+    "output": "Work by a conservative force is path-independent; work by a nonconservative force generally depends on the path."
+  },
+  {
+    "instruction": "Write the formula for average speed.",
+    "output": "average speed = total distance / elapsed time"
+  },
+  {
+    "instruction": "Write the formula for first law of thermodynamics.",
+    "output": "Delta U = Q - W_by when W_by is work done by the system"
+  },
+  {
+    "instruction": "Could you briefly explain thermal expansion?",
+    "output": "Thermal expansion is a change in material dimensions caused by temperature change. Most materials expand when heated over ordinary temperature ranges."
+  },
+  {
+    "instruction": "Compare gravity and weight briefly.",
+    "output": "Gravity is an interaction or field; weight is the gravitational force on a particular object."
+  },
+  {
+    "instruction": "Compare impulse and momentum briefly.",
+    "output": "Momentum describes motion of matter; impulse is the change in momentum caused by force over time."
+  },
+  {
+    "instruction": "Compare Newton's first law and Newton's second law briefly.",
+    "output": "The first law describes motion with zero net force; the second relates net force to acceleration."
+  },
+  {
+    "instruction": "Write the formula for coefficient of performance of a refrigerator.",
+    "output": "COP = Q_cold/W_in"
+  },
+  {
+    "instruction": "Write the formula for average velocity.",
+    "output": "v_avg = Delta x / Delta t in one dimension"
+  },
+  {
+    "instruction": "Could you briefly explain heat conduction?",
+    "output": "Conduction transfers thermal energy through matter without bulk transport of the material. Energy moves from hotter regions to cooler regions."
+  },
+  {
+    "instruction": "Could you briefly explain coefficient of performance?",
+    "output": "A coefficient of performance measures useful heating or cooling divided by work input. For a refrigerator, COP = Q_cold/W_in."
+  },
+  {
+    "instruction": "Could you briefly explain average speed?",
+    "output": "Average speed is total distance divided by elapsed time. Average speed uses the entire path length, not displacement."
+  },
+  {
+    "instruction": "Could you briefly explain friction?",
+    "output": "Friction is a contact force that opposes relative sliding or its tendency. Static friction prevents slipping; kinetic friction acts during sliding."
+  },
+  {
+    "instruction": "Compare net force and individual force briefly.",
+    "output": "Net force is the vector sum of all forces; one individual force may be balanced by others."
+  },
+  {
+    "instruction": "Could you briefly explain center of mass?",
+    "output": "The center of mass is the mass-weighted average position of a system. Its motion is determined by the net external force."
+  },
+  {
+    "instruction": "Could you briefly explain position-time graph?",
+    "output": "A position-time graph shows position as a function of time. The slope of a position-time graph gives velocity."
+  },
+  {
+    "instruction": "Could you briefly explain average acceleration?",
+    "output": "Average acceleration is change in velocity divided by elapsed time. In one dimension, a_avg = Delta v/Delta t."
+  },
+  {
+    "instruction": "Could you briefly explain air resistance?",
+    "output": "Air resistance is a drag force exerted by air on a moving body. It acts opposite the body's motion relative to the air."
+  },
+  {
+    "instruction": "Could you briefly explain average velocity?",
+    "output": "Average velocity is displacement divided by elapsed time. Average velocity depends on displacement, not on total distance."
+  },
+  {
+    "instruction": "Could you briefly explain reversible process?",
+    "output": "A reversible process can be undone without a net change to system and surroundings. Real processes are not perfectly reversible."
+  },
+  {
+    "instruction": "Could you briefly explain conservative force?",
+    "output": "A conservative force does path-independent work between two points. Gravity and an ideal spring force are conservative."
+  },
+  {
+    "instruction": "Write the formula for thermal efficiency of a heat engine.",
+    "output": "eta = W_out/Q_hot"
+  },
+  {
+    "instruction": "Could you briefly explain maximum height of a projectile?",
+    "output": "Maximum height is the highest vertical position reached in flight. At the highest point, vertical velocity is zero but acceleration is still downward."
+  },
+  {
+    "instruction": "Could you briefly explain longitudinal wave?",
+    "output": "A longitudinal wave oscillates parallel to its direction of travel. Sound in air is a longitudinal pressure wave."
+  },
+  {
+    "instruction": "Write the formula for heat during a phase change.",
+    "output": "Q = mL for specific latent heat L"
+  },
+  {
+    "instruction": "Could you briefly explain straight-line motion?",
+    "output": "Straight-line motion takes place along one spatial direction. One signed coordinate can describe the position."
+  },
+  {
+    "instruction": "Could you briefly explain heat capacity?",
+    "output": "Heat capacity is the energy needed to raise a system's temperature by one kelvin under specified conditions. Its SI unit is J/K."
+  },
+  {
+    "instruction": "Could you briefly explain scalar?",
+    "output": "A scalar has magnitude but no direction. Mass, temperature, and energy are scalar quantities."
+  },
+  {
+    "instruction": "Could you briefly explain mechanical work?",
+    "output": "Mechanical work is the integral of force along an object's displacement. Only the component of force along motion contributes to work."
+  },
+  {
+    "instruction": "Compare scalar and vector briefly.",
+    "output": "A scalar has magnitude only; a vector has magnitude and direction."
+  },
+  {
+    "instruction": "Write the formula for moment of inertia of a point mass.",
+    "output": "I = mr^2 relative to the axis"
+  },
+  {
+    "instruction": "Write the formula for gravitational potential energy near Earth.",
+    "output": "U = mgh relative to a chosen reference height"
+  },
+  {
+    "instruction": "Could you briefly explain free-body diagram?",
+    "output": "A free-body diagram shows the external forces acting on one chosen object. It helps apply Newton's laws without mixing forces on different bodies."
+  },
+  {
+    "instruction": "Could you briefly explain Newtonian mechanics?",
+    "output": "Newtonian mechanics describes motion using Newton's laws of force and acceleration. It works well when speeds are small compared with the speed of light."
+  }
+]

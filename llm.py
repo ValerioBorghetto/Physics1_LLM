@@ -57,7 +57,10 @@ def generate_text_simple(model, idx, max_new_tokens, context_size):
             logits=model(idx_cut) #conterrà la predizione per tutti i token, voglio solo l'ultimo...(batch, n_token, vocab_size) becomes (batch, vocab_size)
             logits = logits[:,-1, :]
             #prendi per ogni batch l'indice del valore col valore più alto...qui ancora non si è convertito il logits con la probabilità
-            idx_next=torch.argmax(logits, dim=-1, keepdim=True)
+            #idx_next=torch.argmax(logits, dim=-1, keepdim=True)
+            #nel modo seguente invece usi la temperatura, in modo che la generazione sia ocmunque stocastica
+            probs = torch.softmax(logits/temperature, dim=-1)
+            idx_next=torch.multimodal(probs, num_samples=1)
             #appendi l'indice alla seuqenza
             idx=torch.cat((idx, idx_next), dim=1) #(batch_size, n_tokens+1)
 
